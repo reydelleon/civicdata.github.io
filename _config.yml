@@ -11,9 +11,9 @@ owner:
   bio:            "Making Public Data Truly Public"
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: https://twitter.com/CivicDataAlly 
+  twitter: CivicDataAlly 
   facebook:
-  github: https://github.com/civicdata
+  github: civicdata
   stackoverflow:
   linkedin:
   instagram:

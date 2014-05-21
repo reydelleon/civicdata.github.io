@@ -2,7 +2,7 @@ title:            Civic Data Alliance
 description:      Louisville's Code For America Brigage. Making Public Data Truly Public.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://www.civicdataalliance.org
-disqus_shortname: civicdataalliance
+disqus_shortname: civicdataaliance # yes, this is wrong, but it can't be changed
 
 # Owner/author information
 owner:

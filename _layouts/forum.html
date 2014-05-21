@@ -1,0 +1,46 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+</head>
+
+<body class="home">
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+<div class="article-author-side">
+  {% include _author-bio.html %}
+</div>
+
+<div id="index">
+    <iframe id="forum_embed"
+       src="javascript:void(0)"
+       scrolling="no"
+       frameborder="0"
+       width="900"
+       height="700">
+      </iframe>
+
+      <script type="text/javascript">
+       document.getElementById("forum_embed").src =
+        "https://groups.google.com/forum/embed/?place=forum/civicdataalliance" +
+        "&showsearch=true&showpopout=true&hideforumtitle=false&hidesubject=false&parenturl=" +
+        encodeURIComponent(window.location.href);
+      </script>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}
+  
+</body>
+</html>

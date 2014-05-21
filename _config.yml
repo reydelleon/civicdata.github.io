@@ -1,19 +1,19 @@
 title:            Civic Data Alliance
-description:      Louisville's Code For America Brigage.
+description:      Louisville's Code For America Brigage. Making Public Data Truly Public.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://beta.civicdataalliance.org
-disqus_shortname:
+url:              http://www.civicdataalliance.org
+disqus_shortname: civicdataalliance
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
+  name:           Civic Data Alliance
+  avatar:         logo.jpg
+  bio:            "Making Public Data Truly Public"
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:
+  twitter: https://twitter.com/CivicDataAlly 
   facebook:
-  github:
+  github: https://github.com/civicdata
   stackoverflow:
   linkedin:
   instagram:
@@ -27,7 +27,8 @@ owner:
   google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-3244073-12
+google_analytics_site: civicdataalliance.org
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -39,11 +40,8 @@ links:
     url: /about/
   - title: Posts
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Forum
+    url: /forum/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York

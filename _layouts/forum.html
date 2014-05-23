@@ -5,20 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include _head.html %}
-<script type="text/javascript">
-function resizeIframe() {
-    var height = document.documentElement.clientHeight;
-    height -= document.getElementById('forum_embed').offsetTop;
-    
-    // not sure how to get this dynamically
-    height -= 100; /* whatever you set your body bottom margin/padding to be */
-    
-    document.getElementById('forum_embed').style.height = height +"px";
-    
-};
-document.getElementById('forum_embed').onload = resizeIframe;
-window.onresize = resizeIframe;
-</script>
+
 </head>
 
 <body class="home">
@@ -37,7 +24,7 @@ window.onresize = resizeIframe;
        scrolling="no"
        frameborder="0"
        width="900"
-       height="1000">
+       height="1200">
       </iframe>
 
       <script type="text/javascript">

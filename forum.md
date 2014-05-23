@@ -1,7 +1,7 @@
 ---
 layout: forum
 permalink: /forum/
-title: Civic Data Alliance Forum
+title: Forum for Civic Data Alliance
 description: "Civic Data Alliance Forum"
 tags: [forum]
 image:

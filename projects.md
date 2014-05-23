@@ -20,21 +20,26 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 * *Uniting technologists, entrepreneurs, developers and other citizens in using open data to improve communities.*
 * [hackforchange.org](http://hackforchange.org/events/hack-for-change-louisville/)
 
+
 #### **The Next Bus**
 * *Encouraging bus ridership in the city*
 * [getonthenextbus.com](http://www.getonthenextbus.com)
+
 
 #### **Louisville Minecraft**
 * *City GIS layers needed to recreate our city in Minecraft*
 * [docs.google.com](https://docs.google.com/a/yourmapper.com/document/d/1BaNt7-RC48QQM8U1s6UMJlU6CNc7Igxk7IaVRh5wxgQ/edit)
 
+
 #### **OKFN Open Data Census**
 * *Listing our open data achievements*
 * [okfn.org](http://us-city.census.okfn.org/place/louisville)
 
+
 #### **Louisville Fiber**
 * *Mapping the demand for high speed internet*
 * [louisvillefiber.com](http://www.louisvillefiber.com/)
+
 
 # PAST
 

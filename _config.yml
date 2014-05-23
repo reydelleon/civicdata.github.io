@@ -1,18 +1,18 @@
 title:            Civic Data Alliance
-description:      Louisville's Code For America Brigage. Making Public Data Truly Public.
+description:      Louisville's Code For America Brigade. Making Public Data Truly Public.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://www.civicdataalliance.org
-disqus_shortname: civicdataaliance # yes, this is wrong, but it can't be changed
+disqus_shortname: civicdataaliance # yes, this is wrong, but it can't be changed (LOL)
 
 # Owner/author information
 owner:
   name:           Civic Data Alliance
   avatar:         logo.jpg
   bio:            "Making Public Data Truly Public"
-  email:          your@email.com
+  email:          civicdataalliance@yourmapper.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: CivicDataAlly 
-  facebook:
+  facebook: civicdata
   github: civicdata
   stackoverflow:
   linkedin:
@@ -40,6 +40,8 @@ links:
     url: /about/
   - title: Posts
     url: /posts/
+  - title: Projects
+    url: /projects/
   - title: Forum
     url: /forum/
   - title: Data Sets

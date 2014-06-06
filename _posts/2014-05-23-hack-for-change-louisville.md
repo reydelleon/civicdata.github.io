@@ -6,9 +6,9 @@ modified: 2014-05-23
 tags: [hackathon,ndoch]
 comments: true
 image:
-  feature: texture-feature-02.jpg
-  credit: system58.photos by david.alan.kidd
-  creditlink: http://system58photos.com/
+  feature: banner-hackville.jpg
+  credit: Michael Schnuerle
+  creditlink: http://yourmapper.com/
 ---
 
 Hack for Change Louisville is being held as the city's formal National Day of Civic Hacking event, one of over 119 simultaneous events across the United States. 

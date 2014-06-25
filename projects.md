@@ -16,19 +16,14 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 
 # CURRENT
 
-#### **National Day of Civic Hacking**
-* *Uniting technologists, entrepreneurs, developers and other citizens in using open data to improve communities.*
-* [hackforchange.org](http://hackforchange.org/events/hack-for-change-louisville/)
+#### **Louisville Minecraft**
+* *City GIS layers needed to recreate our city in Minecraft*
+* [docs.google.com](https://docs.google.com/a/yourmapper.com/document/d/1BaNt7-RC48QQM8U1s6UMJlU6CNc7Igxk7IaVRh5wxgQ/edit)
 
 
 #### **The Next Bus**
 * *Encouraging bus ridership in the city*
 * [getonthenextbus.com](http://www.getonthenextbus.com)
-
-
-#### **Louisville Minecraft**
-* *City GIS layers needed to recreate our city in Minecraft*
-* [docs.google.com](https://docs.google.com/a/yourmapper.com/document/d/1BaNt7-RC48QQM8U1s6UMJlU6CNc7Igxk7IaVRh5wxgQ/edit)
 
 
 #### **OKFN Open Data Census**
@@ -42,6 +37,11 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 
 
 # PAST
+
+#### **National Day of Civic Hacking**
+* *Uniting technologists, entrepreneurs, developers and other citizens in using open data to improve communities.*
+* [hackforchange.org](http://blog.yourmapper.com/2014/06/hack-for-change-louisville-recap-2014/)
+
 
 #### **Louisville Open Data Executive Order**
 * *Advising the mayor and leaders on best practices and order wording*

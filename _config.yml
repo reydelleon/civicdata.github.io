@@ -8,7 +8,7 @@ disqus_shortname: civicdataaliance # yes, this is wrong, but it can't be changed
 owner:
   name:           Civic Data Alliance
   avatar:         logo.jpg
-  bio:            "Making Public Data Truly Public"
+  bio:            "Louisville's Code for America Brigade. Making Public Data Truly Public."
   email:          civicdataalliance@yourmapper.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: CivicDataAlly 
@@ -49,7 +49,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Kentucky/Louisville
 future:      true
 highlighter: pygments
 markdown:    kramdown

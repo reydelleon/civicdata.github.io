@@ -42,7 +42,7 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 * [sunlightfoundation.com](http://sunlightfoundation.com/opendataguidelines/)
 
 
-# PAST
+# COMPLETE
 
 #### **National Day of Civic Hacking**
 * *Uniting technologists, entrepreneurs, developers and other citizens in using open data to improve communities.*

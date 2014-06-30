@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Louisville's National Day of Civic Hacking Event May 31
-description: "Louisville's National Day of Civic Hacking Event, Hack for Change May 31 2014"
+title: Louisville's National Day of Civic Hacking Event 2014
+description: "Louisville's National Day of Civic Hacking Event, Hack for Change May 31, 2014"
 modified: 2014-05-23
 tags: [hackathon,ndoch]
 comments: true
@@ -21,3 +21,4 @@ Learn more at our [Hack for Change info page](http://hackforchange.org/events/ha
 
 Keep an eye on this site to learn about upcoming Open Data events and news.
 
+See our [full 2014 recap](http://blog.yourmapper.com/2014/06/hack-for-change-louisville-recap-2014/)!

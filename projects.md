@@ -17,8 +17,9 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 # CURRENT
 
 #### **Louisville Minecraft**
-* *City GIS layers needed to recreate our city in Minecraft*
-* [docs.google.com](https://docs.google.com/a/yourmapper.com/document/d/1BaNt7-RC48QQM8U1s6UMJlU6CNc7Igxk7IaVRh5wxgQ/edit)
+* *Opening city GIS layers needed to recreate our city in Minecraft*
+* Layers: [docs.google.com](https://docs.google.com/a/yourmapper.com/document/d/1BaNt7-RC48QQM8U1s6UMJlU6CNc7Igxk7IaVRh5wxgQ/edit)
+* Progress/Tools: [hackpad.com](https://hackpad.com/Minecraft-Louisville-Ub1wrkuQJ2a)
 
 
 #### **The Next Bus**
@@ -34,6 +35,11 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 #### **Louisville Fiber**
 * *Mapping the demand for high speed internet*
 * [louisvillefiber.com](http://www.louisvillefiber.com/)
+
+
+#### **Open Records FOIA/KORA Requests and Data Hosting**
+* *Getting more public data online at city, county, state levels*
+* [sunlightfoundation.com](http://sunlightfoundation.com/opendataguidelines/)
 
 
 # PAST

@@ -4,7 +4,7 @@ permalink: /projects/
 title: Projects from the Civic Data Alliance
 tagline: Making Public Data Truly Public.
 tags: [projects]
-modified: 5-23-2014
+modified: 9-5-2014
 comments: false
 image:
   feature: texture-feature-06.jpg
@@ -14,35 +14,43 @@ image:
 
 The Civic Data Alliance is composed of local volunteers, helping to open data, assist the government and non-profits, and generate public interest and feedback.  To that end, here is a list of current and past projects that our members are working on for the community.
 
+# ONGOING
+
+#### **Open Records FOIA/KORA Requests and Data Hosting**
+* *Getting more public data online at city, county, state levels*
+* [sunlightfoundation.com](http://sunlightfoundation.com/opendataguidelines/)
+* [usodi.org](https://usodi.org/)
+* [codeforamerica.org](http://www.codeforamerica.org/)
+* [data.gov](https://www.data.gov/open-gov/)
+* [opendatahandbook.org](http://opendatahandbook.org/)
+* [opengovdata.org](http://opengovdata.org/)
+
 # CURRENT
+
+#### **ReSurfaced**
+* *Creating an urban canvas for experimentation*
+* [citycollaborative.org](http://citycollaborative.org/popupplaza/)
 
 #### **Louisville Minecraft**
 * *Opening city GIS layers needed to recreate our city in Minecraft*
 * Layers: [docs.google.com](https://docs.google.com/a/yourmapper.com/document/d/1BaNt7-RC48QQM8U1s6UMJlU6CNc7Igxk7IaVRh5wxgQ/edit)
 * Progress/Tools: [hackpad.com](https://hackpad.com/Minecraft-Louisville-Ub1wrkuQJ2a)
 
+#### **OKFN Open Data Census**
+* *Listing our open data achievements*
+* [okfn.org](http://us-city.census.okfn.org/place/louisville)
 
 #### **The Next Bus**
 * *Encouraging bus ridership in the city*
 * [getonthenextbus.com](http://www.getonthenextbus.com)
 
 
-#### **OKFN Open Data Census**
-* *Listing our open data achievements*
-* [okfn.org](http://us-city.census.okfn.org/place/louisville)
 
+# COMPLETE
 
 #### **Louisville Fiber**
 * *Mapping the demand for high speed internet*
 * [louisvillefiber.com](http://www.louisvillefiber.com/)
-
-
-#### **Open Records FOIA/KORA Requests and Data Hosting**
-* *Getting more public data online at city, county, state levels*
-* [sunlightfoundation.com](http://sunlightfoundation.com/opendataguidelines/)
-
-
-# COMPLETE
 
 #### **National Day of Civic Hacking**
 * *Uniting technologists, entrepreneurs, developers and other citizens in using open data to improve communities.*

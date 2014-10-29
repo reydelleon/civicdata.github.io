@@ -6,7 +6,7 @@ modified: 2014-10-29
 tags: [louisville,precincts,politics]
 comments: true
 image:
-  feature: banner-minecraft.jpg
+  feature: banner-voter-turnout.jpg
   credit: Civic Data Alliance
   creditlink: http://projects.civicdataalliance.org/voter-turnout/
 ---

@@ -10,8 +10,14 @@ image:
   credit: Civic Data Alliance
   creditlink: http://projects.civicdataalliance.org/voter-turnout/
 ---
+<<<<<<< HEAD
 
 Secretary of State Grimes office recently released the [turnout statistics](http://elect.ky.gov/statistics/Pages/turnoutstatistics.aspx) for last May’s Primary Election.
+=======
+Secretary of State Grimes office recently released the turnout statistics for last May’s Primary Election.
+We at the Civic Data Alliance thought it would be useful for organizations engaged in ‘Getting Out the Vote’ to visualize turnout across all Precincts in Louisville. Of course, Primary Elections typically have much lower turnouts than General Elections, but seeing last May’s Primary statistics on a map might help organizers target some of their current canvassing in areas with especially low voter turnout.
+Precinct, District, and County turn out for the May 2014 primary including registered voters, turnout numbers and percent. Includes breakdowns for democrats, republicans, and independents.
+>>>>>>> FETCH_HEAD
 
 We at the Civic Data Alliance thought it would be useful for organizations engaged in ‘Getting Out the Vote’ to visualize turnout across all Precincts in Louisville. Of course, Primary Elections typically have much lower turnouts than General Elections, but seeing last May’s Primary statistics on a map might help organizers target some of their current canvassing in areas with especially low voter turnout.
 
@@ -21,6 +27,7 @@ Precinct turn out for the May 2014 primary including registered voters, turnout 
 
 [Voter Precinct Turnout Map](http://projects.civicdataalliance.org/voter-turnout/)
 
+<<<<<<< HEAD
 ![Voter Turnout Map](/images/screenshot-voter-turnout.png)
 
 **Data**
@@ -28,3 +35,6 @@ Precinct turn out for the May 2014 primary including registered voters, turnout 
 [Github Source Code](https://github.com/civicdata/LouisvilleVoterTurnoutMap)
 
 [Turnout Raw Data](http://data.civicdataalliance.org/dataset/ky-voting-precinct-results)
+=======
+[Turnout Raw Data](http://data.civicdataalliance.org/dataset/ky-voting-precinct-results)
+>>>>>>> FETCH_HEAD

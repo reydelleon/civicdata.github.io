@@ -17,7 +17,7 @@ We at the Civic Data Alliance thought it would be useful for organizations engag
 
 What's unique about this visualization is that, as far as we know, no one has merged precinct outlines in Jefferson County with turnout results in an interactive map for the public before now.
 
-**Map**
+## Map
 
 Precinct turn out for the May 2014 primary including registered voters, turnout numbers and percent. Includes breakdowns for democrats and republicans.
 
@@ -27,7 +27,7 @@ Precinct turn out for the May 2014 primary including registered voters, turnout 
 
 *Map created by [@CityResearch](http://www.twitter.com/CityResearch) [@LouieWatch](http://www.twitter.com/LouieWatch)  [@YourMapper](http://www.twitter.com/YourMapper)  [@atepoorthuis](http://www.twitter.com/atepoorthuis) in less than 1 day.*
 
-**Data**
+## Data
 
 [Github Source Code](https://github.com/civicdata/LouisvilleVoterTurnoutMap)
 

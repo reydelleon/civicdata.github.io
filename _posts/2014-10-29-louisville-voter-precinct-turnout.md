@@ -15,7 +15,7 @@ Secretary of State Grimes office recently released the [turnout statistics](http
 
 We at the Civic Data Alliance thought it would be useful for organizations engaged in ‘Getting Out the Vote’ to visualize turnout across all Precincts in Louisville. Of course, Primary Elections typically have much lower turnouts than General Elections, but seeing last May’s Primary statistics on a map might help organizers target some of their current canvassing in areas with especially low voter turnout.
 
-What's unique about this visualization is that as far as we know, no one has merged precinct outlines with turnout results in an interactive map for the public before now.
+What's unique about this visualization is that, as far as we know, no one has merged precinct outlines in Jefferson County with turnout results in an interactive map for the public before now.
 
 **Map**
 

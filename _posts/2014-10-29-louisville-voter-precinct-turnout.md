@@ -25,7 +25,26 @@ Precinct turn out for the May 2014 primary including registered voters, turnout 
 
 [![Voter Turnout Map](/images/screenshot-voter-turnout.png)](http://projects.civicdataalliance.org/voter-turnout/)
 
-*Map created by [@CityResearch](http://www.twitter.com/CityResearch) [@LouieWatch](http://www.twitter.com/LouieWatch)  [@YourMapper](http://www.twitter.com/YourMapper)  [@atepoorthuis](http://www.twitter.com/atepoorthuis) in less than 1 day.*
+*Map created by* [@CityResearch](http://www.twitter.com/CityResearch) [@LouieWatch](http://www.twitter.com/LouieWatch)  [@YourMapper](http://www.twitter.com/YourMapper)  [@atepoorthuis](http://www.twitter.com/atepoorthuis) in less than 1 day.
+
+## Process and Issues ##
+
+*Getting Data*
+
+1. Obtained PDF of state-wide precinct data from SOS. Use OCR to digitize data.  Made manual fixes to some data.
+2. Pay $10 and get notary for LOJIC to release Jefferson County precinct GIS boundaries and agree not to publish raw data.
+3. Convert GIS shapefile precinct data to more web-friendly KML format using QGIS.
+4. Called Jefferson County Election Center to get polling locations for free via email.
+
+Open data issues included releasing raw data tables as PDFs, charging for access to public data, requiring a notary to get public data, signing agreements to not publish public data, and having to call to get data instead of a direct download.
+
+*Building Map*
+
+1. Loaded all data sets into Mapbox tables.
+2. Wrote JavaScript to create a LeafletJS map.
+3. Collaboratively worked on code using Github and Trello.
+4. Added UI elements and designed map.
+5. Created new hosting location to put interactive map for the public.
 
 ## Data
 

@@ -54,6 +54,6 @@ Open data issues included releasing raw data tables as PDFs, charging for access
 
 ## Animations ##
 
-![Registered Voters Republican vs Democrat](/images/animation-PrecinctRegisteredVoters.gif =250x)
-![Democrat Registered Voters vs Turnout](/images/animation-DemRegisteredTurnout.gif =250x)
-![Republican Registered Voters vs Turnout](/images/animation-RepRegisteredTurnout.gif =250x)
+![Registered Voters Republican vs Democrat](/images/animation-PrecinctRegisteredVoters.gif)
+![Democrat Registered Voters vs Turnout](/images/animation-DemRegisteredTurnout.gif)
+![Republican Registered Voters vs Turnout](/images/animation-RepRegisteredTurnout.gif)

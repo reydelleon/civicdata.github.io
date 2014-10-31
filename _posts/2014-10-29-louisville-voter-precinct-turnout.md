@@ -40,12 +40,14 @@ Open data issues included releasing raw data tables as PDFs, charging for access
 
 *Building Map*
 
-1. Loaded all data sets into Mapbox tables.
-2. Wrote JavaScript to create a LeafletJS map.
-3. Collaboratively worked on code using Github and Trello.
-4. Added UI elements and designed map.
-5. Created new hosting location to put interactive map for the public.
-
+1. Loaded all data sets into Mapbox tables, but then abandoned this method.
+2. Qgis was used to join polygons and data and then export to geojson
+3. [Mashaper](http://www.mapshaper.org/) was used to simplify the line work in the resulting file to reduce file size.
+4. Wrote JavaScript to create a LeafletJS map.
+5. Collaboratively worked on code using Github and Trello.
+6. Added UI elements and designed map.
+7. Created new hosting location to put interactive map for the public.
+ 
 ## Data
 
 [Github Source Code](https://github.com/civicdata/LouisvilleVoterTurnoutMap)

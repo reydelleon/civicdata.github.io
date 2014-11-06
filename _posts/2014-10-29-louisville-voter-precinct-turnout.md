@@ -17,9 +17,11 @@ We at the Civic Data Alliance thought it would be useful for organizations engag
 
 What's unique about this visualization is that, as far as we know, no one has merged precinct outlines in Jefferson County with turnout results in an interactive map for the public before now.
 
-## Map
+## Maps
 
 Precinct turn out for the May 2014 primary including registered voters, turnout numbers and percent. Includes breakdowns for democrats and republicans.
+
+[General Election Results Map](http://projects.civicdataalliance.org/election-results/)
 
 [Voter Precinct Turnout Map](http://projects.civicdataalliance.org/voter-turnout/)
 

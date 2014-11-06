@@ -27,9 +27,10 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 
 # CURRENT
 
-#### **ReSurfaced**
-* *Creating an urban canvas for experimentation*
-* [citycollaborative.org](http://citycollaborative.org/popupplaza/)
+#### **Voter Turnout by Precinct**
+* *May 2014 primary including registered voters, turnout numbers and percent*
+* [projects.civicdataalliance.org/voter-turnout](http://projects.civicdataalliance.org/voter-turnout/)
+* [projects.civicdataalliance.org/election-results](http://projects.civicdataalliance.org/election-results/)
 
 #### **Louisville Minecraft**
 * *Opening city GIS layers needed to recreate our city in Minecraft*
@@ -46,7 +47,11 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 
 
 
-# COMPLETE
+# COMPLETE 
+
+#### **ReSurfaced**
+* *Creating an urban canvas for experimentation*
+* [citycollaborative.org](http://citycollaborative.org/popupplaza/)
 
 #### **Louisville Fiber**
 * *Mapping the demand for high speed internet*

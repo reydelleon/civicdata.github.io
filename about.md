@@ -20,11 +20,11 @@ The Civic Data Alliance (CDA) is Louisville's [Code for America Brigade](http://
 
 **Current Core Members**
 
-Chris Harrell (Community Organizer) [@lazarusllc](http://www.twitter.com/lazarusllc)
-Ate Poorthuis (Storyteller) [@floating_sheep](http://www.twitter.com/floating_sheep)
-Michael Schnuerle (Captain) [@yourmapper](http://www.twitter.com/yourmapper)
-Patrick Smith (Captain) [@citycollab](http://www.twitter.com/citycollab)
-Bret Walker (Delivery Lead ) [@louiewatch](http://www.twitter.com/louiewatch)
+* Chris Harrell (Community Organizer) [@lazarusllc](http://www.twitter.com/lazarusllc)
+* Ate Poorthuis (Storyteller) [@floating_sheep](http://www.twitter.com/floating_sheep)
+* Michael Schnuerle (Captain) [@yourmapper](http://www.twitter.com/yourmapper)
+* Patrick Smith (Captain) [@citycollab](http://www.twitter.com/citycollab)
+* Bret Walker (Delivery Lead ) [@louiewatch](http://www.twitter.com/louiewatch)
 
 **Municipal Partner**
 

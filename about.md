@@ -50,7 +50,9 @@ The CDA was officially merged with the Louisville Brigade in May 2014 when it be
 
 In December 2014 we reached official Brigade status with Code for America.
 
-As of December 2014, over 100 people and volunteers have participated in our hackathons, meetups, and events.  Thank you!
+As of March 2015, over 200 people and volunteers have participated in our hackathons, meetups, and events.  Thank you!
+
+We've had **10 meetups**, ran **5 hackathons**, worked on **18 civic public projects**, and donated over **4,000 hours** of volunteer time to the community!
 
 **Code of Conduct**
 

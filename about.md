@@ -46,7 +46,7 @@ Louisville's Code for America Brigade was founded in December of 2012 by Michael
 
 On September 2013, the Civic Data Alliance was created by [Patrick Smith](http://citycollaborative.org/), [Bret Walker](http://www.louiewatch.com/), [Chris Harrell](http://www.lazarusllc.com/) and [Michael Schnuerle](http://www.yourmapper.com/) to be a voice for citizens.  
 
-The CDA was officially merged with the Louisville Brigade in May 2014 when it became a Member CfA Brigade.
+The CDA was merged with the Louisville Brigade in May 2014 when it became a Member CfA Brigade.
 
 In December 2014 we reached official Brigade status with Code for America.
 

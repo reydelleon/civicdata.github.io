@@ -18,6 +18,7 @@ The Civic Data Alliance has taken open GIS data from the city of Louisville and 
 
 
 Lauren Dyson, Content Manager with Code for America, dropped by to lend a hand.
+
 <blockquote class="twitter-tweet" lang="en"><p>Just made my first contribution to <a href="https://twitter.com/openstreetmap">@openstreetmap</a> ever here at <a href="https://twitter.com/hashtag/CodeAcross?src=hash">#CodeAcross</a> Louisville <a href="https://twitter.com/CivicDataAlly">@CivicDataAlly</a> <a href="http://t.co/o2dKIlyvYu">pic.twitter.com/o2dKIlyvYu</a></p>&mdash; ladyson (@ladyson) <a href="https://twitter.com/ladyson/status/569188814725488640">February 21, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

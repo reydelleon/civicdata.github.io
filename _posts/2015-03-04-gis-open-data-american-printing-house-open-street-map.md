@@ -14,16 +14,25 @@ image:
 The Civic Data Alliance has taken open GIS data from the city of Louisville and organized volunteers to load it into Open Street Map so the American Printing House can use it in their mobile app for the visually impaired.
 
 <blockquote class="twitter-tweet" lang="en"><p>Helping <a href="https://twitter.com/APHfortheBlind">@APHfortheBlind</a> to map Louisville, KY to assist blind pedestrians with <a href="https://twitter.com/codeforamerica">@CodeForAmerica</a> and <a href="https://twitter.com/CivicDataAlly">@CivicDataAlly</a> <a href="http://t.co/HLJejvRmcT">pic.twitter.com/HLJejvRmcT</a></p>&mdash; Dave Mattingly (@blackwyrm) <a href="https://twitter.com/blackwyrm/status/569187903739441152">February 21, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Collaborating and learning how to put buildings and addresses into Open Street Map.
+
+<blockquote class="twitter-tweet" lang="en"><p>Happy <a href="https://twitter.com/hashtag/CodeAcross?src=hash">#CodeAcross</a>! Civic hackers braved the wintry mix this morning to code for Louisville with <a href="https://twitter.com/CivicDataAlly">@CivicDataAlly</a> <a href="http://t.co/tMl29O3M5E">pic.twitter.com/tMl29O3M5E</a></p>&mdash; ladyson (@ladyson) <a href="https://twitter.com/ladyson/status/569180801256062976">February 21, 2015</a></blockquote>
+
+Resident Open Street Map expert Jeff McAdams (has the most edits in the city) discussing the details of our building import.
+
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/CivicDataAlly">@CivicDataAlly</a> <a href="https://twitter.com/codeforamerica">@codeforamerica</a> Louisville KY kicks off <a href="https://twitter.com/hashtag/CodeAcross?src=hash">#CodeAcross</a> to assist <a href="https://twitter.com/APHfortheBlind">@APHfortheBlind</a> ! <a href="http://t.co/pfTgYQiEkp">pic.twitter.com/pfTgYQiEkp</a></p>&mdash; Chris Harrell (@TheHarrell) <a href="https://twitter.com/TheHarrell/status/569160729246498816">February 21, 2015</a></blockquote>
+
+Listening to Larry Skutchan from the American Printing House talk about how the data can help his app users.
 
 <blockquote class="twitter-tweet" lang="en"><p>Adding all buildings/address to <a href="https://twitter.com/openstreetmap">@openstreetmap</a> Louisville for <a href="https://twitter.com/APHfortheBlind">@APHfortheBlind</a> app <a href="https://twitter.com/brianherbert">@brianherbert</a> <a href="https://twitter.com/ladyson">@ladyson</a> <a href="https://twitter.com/hashtag/codeaccross?src=hash">#codeaccross</a> <a href="http://t.co/2Q4m8Emb1F">pic.twitter.com/2Q4m8Emb1F</a></p>&mdash; Pat Smith (@CityResearch) <a href="https://twitter.com/CityResearch/status/569215416767115265">February 21, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Brian Herbert from Ushahidi (middle) lending his expertise, adding mapping data to Louisville.
+
+<blockquote class="twitter-tweet" lang="en"><p>Just made my first contribution to <a href="https://twitter.com/openstreetmap">@openstreetmap</a> ever here at <a href="https://twitter.com/hashtag/CodeAcross?src=hash">#CodeAcross</a> Louisville <a href="https://twitter.com/CivicDataAlly">@CivicDataAlly</a> <a href="http://t.co/o2dKIlyvYu">pic.twitter.com/o2dKIlyvYu</a></p>&mdash; ladyson (@ladyson) <a href="https://twitter.com/ladyson/status/569188814725488640">February 21, 2015</a></blockquote>
 
 Lauren Dyson, Content Manager with Code for America, dropped by to lend a hand.
 
-<blockquote class="twitter-tweet" lang="en"><p>Just made my first contribution to <a href="https://twitter.com/openstreetmap">@openstreetmap</a> ever here at <a href="https://twitter.com/hashtag/CodeAcross?src=hash">#CodeAcross</a> Louisville <a href="https://twitter.com/CivicDataAlly">@CivicDataAlly</a> <a href="http://t.co/o2dKIlyvYu">pic.twitter.com/o2dKIlyvYu</a></p>&mdash; ladyson (@ladyson) <a href="https://twitter.com/ladyson/status/569188814725488640">February 21, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

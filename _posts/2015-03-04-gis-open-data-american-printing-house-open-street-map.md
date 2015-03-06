@@ -2,7 +2,7 @@
 layout: post
 title: Helping the Visually Impaired Navigate the World Using Open Data
 description: "The Civic Data Alliance has taken open GIS data from the city of Louisville and organized volunteers to load it into Open Street Map so the American Printing House can use it in their mobile app for the visually impaired."
-modified: 2015-03-04
+modified: 2015-03-06
 tags: [louisville,gis,aph,american printing house,open street map,hackathon,lojic]
 comments: true
 image:
@@ -11,7 +11,29 @@ image:
   creditlink: https://www.openstreetmap.org/#map=15/38.2361/-85.7220
 ---
 
-The Civic Data Alliance has taken open GIS data from the city of Louisville and organized volunteers to load it into Open Street Map so the American Printing House can use it in their mobile app for the visually impaired.
+The Civic Data Alliance has taken open GIS data from the city of Louisville and [organized](http://wiki.openstreetmap.org/wiki/Louisville,_Kentucky/Building_Outlines_Import/Contributor_Guide) volunteers to load it into Open Street Map so the American Printing House can use it in their mobile app for the visually impaired.
+
+At our first Code for America [CodeAcross](http://www.meetup.com/Louisville-Civic-Data-Alliance/events/219829803/) event during a local ice storm, we taught volunteers how to use OSM's [Task Manager](http://tasks.openstreetmap.us/job/50) to load buildings and addresses, one neighborhood at a time.  
+
+Part 2 of our CodeAcross event is [coming up soon](http://www.meetup.com/Louisville-Civic-Data-Alliance/events/220786152/), where we will expand our volunteer base and load the rest of the data.
+
+**CDA Work Before the Event**
+
+1. Identify the need from APH during our December meetup.
+2. Work with LOJIC and Metro Louisville to add an appropriate open data license to [portal](http://portal.louisvilleky.gov/content/terms-use-accessibility-data-policy) and [FTP](ftp://ftp.lojic.org/pub/federal/) site.
+3. Work with the OSM import community [mailing](https://lists.openstreetmap.org/listinfo/imports) [lists](https://lists.openstreetmap.org/listinfo/imports-us) to get approval for our import.
+4. Create [OSM Wiki pages](http://wiki.openstreetmap.org/wiki/Louisville,_Kentucky/Building_Outlines_Import) that show [qualitative](http://wiki.openstreetmap.org/wiki/Louisville,_Kentucky/Building_Outlines_Import/OSMvsGISOverlapExamples) and [quantitative](http://wiki.openstreetmap.org/wiki/Louisville,_Kentucky/Building_Outlines_Import#Building_Outlines) data analysis, tagging, reconciliation plan, and user accounts process.
+5. Research the best methods for importing data [properly](http://wiki.openstreetmap.org/wiki/Import/Guidelines) into OSM: [JOSM](https://josm.openstreetmap.de/), Task Manager.
+6. Write a step-by-step [Contributor Guide](http://wiki.openstreetmap.org/wiki/Louisville,_Kentucky/Building_Outlines_Import/Contributor_Guide) that can volunteers can follow, showing all scenarios
+7. Run geospacial analysis on the data to merge building footprints with address data.
+8. Create multiple OSM import [files](https://github.com/civicdata/louisville-buildings/tree/data-bg/osm) using a [fork of existing code](https://github.com/civicdata/louisville-buildings) from NOLA's import.
+9. Contact NOLA import lead to ensure our process and data is good.
+10. Create a [Task Manager](http://tasks.openstreetmap.us/job/50) job after getting OSM admin access.
+11. Generate a [JSON file](https://raw.githubusercontent.com/civicdata/louisville-buildings/master/blockgroups-importurl-900913.geojson) with areas of the city broken into 575 census block groups for use in Task Manager.
+12. Core CDA members load some areas of the city in preparation for the event.
+13. Organize, promote, and run Code Across event with our wonderful attendees!
+
+**Tweets During CodeAcross**
 
 <blockquote class="twitter-tweet" lang="en"><p>Helping <a href="https://twitter.com/APHfortheBlind">@APHfortheBlind</a> to map Louisville, KY to assist blind pedestrians with <a href="https://twitter.com/codeforamerica">@CodeForAmerica</a> and <a href="https://twitter.com/CivicDataAlly">@CivicDataAlly</a> <a href="http://t.co/HLJejvRmcT">pic.twitter.com/HLJejvRmcT</a></p>&mdash; Dave Mattingly (@blackwyrm) <a href="https://twitter.com/blackwyrm/status/569187903739441152">February 21, 2015</a></blockquote>
 
@@ -23,7 +45,7 @@ Resident Open Street Map expert Jeff McAdams (has the most edits in the city) di
 
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/CivicDataAlly">@CivicDataAlly</a> <a href="https://twitter.com/codeforamerica">@codeforamerica</a> Louisville KY kicks off <a href="https://twitter.com/hashtag/CodeAcross?src=hash">#CodeAcross</a> to assist <a href="https://twitter.com/APHfortheBlind">@APHfortheBlind</a> ! <a href="http://t.co/pfTgYQiEkp">pic.twitter.com/pfTgYQiEkp</a></p>&mdash; Chris Harrell (@TheHarrell) <a href="https://twitter.com/TheHarrell/status/569160729246498816">February 21, 2015</a></blockquote>
 
-Listening to Larry Skutchan from the American Printing House talk about how the data can help his app users.
+Listening to Larry Skutchan from the American Printing House talk about how the data can help his [Nearby Explorer app](https://play.google.com/store/apps/details?id=org.aph.avigenie) users.
 
 <blockquote class="twitter-tweet" lang="en"><p>Adding all buildings/address to <a href="https://twitter.com/openstreetmap">@openstreetmap</a> Louisville for <a href="https://twitter.com/APHfortheBlind">@APHfortheBlind</a> app <a href="https://twitter.com/brianherbert">@brianherbert</a> <a href="https://twitter.com/ladyson">@ladyson</a> <a href="https://twitter.com/hashtag/codeaccross?src=hash">#codeaccross</a> <a href="http://t.co/2Q4m8Emb1F">pic.twitter.com/2Q4m8Emb1F</a></p>&mdash; Pat Smith (@CityResearch) <a href="https://twitter.com/CityResearch/status/569215416767115265">February 21, 2015</a></blockquote>
 

@@ -19,6 +19,8 @@ Part 2 of our CodeAcross event is [coming up soon](http://www.meetup.com/Louisvi
 
 **CDA Work Before the Event**
 
+The core CDA put in about 140 volunteer hours to prep for the project and event. Here's what we did.
+
 1. Identify the need from APH during our December meetup.
 2. Work with LOJIC and Metro Louisville to add an appropriate open data license to [portal](http://portal.louisvilleky.gov/content/terms-use-accessibility-data-policy) and [FTP](ftp://ftp.lojic.org/pub/federal/) site.
 3. Work with the OSM import community [mailing](https://lists.openstreetmap.org/listinfo/imports) [lists](https://lists.openstreetmap.org/listinfo/imports-us) to get approval for our import.
@@ -32,6 +34,8 @@ Part 2 of our CodeAcross event is [coming up soon](http://www.meetup.com/Louisvi
 11. Generate a [JSON file](https://raw.githubusercontent.com/civicdata/louisville-buildings/master/blockgroups-importurl-900913.geojson) with areas of the city broken into 575 census block groups for use in Task Manager.
 12. Core CDA members load some areas of the city in preparation for the event.
 13. Organize, promote, and run Code Across event with our wonderful attendees!
+
+Between February 21 and March 6, 10 people have collaboratively worked on 127 areas of the city, and validated (or invalidated) 76 of those, for an estimated 90 hours of work.
 
 **Tweets During CodeAcross**
 

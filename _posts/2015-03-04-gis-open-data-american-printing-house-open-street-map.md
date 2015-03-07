@@ -10,13 +10,12 @@ image:
   credit: Open Street Map
   creditlink: https://www.openstreetmap.org/#map=15/38.2361/-85.7220
 ---
-Winter weather could not stop [CodeAcross 2015](http://www.codeforamerica.org/events/codeacross-2015/) in Louisville last Saturday, February 22nd. Dedicated volunteers braved the icy streets and converged on the  Urban Design Studio for a day of Open Streets Maps editing, in support of the American Printing House for the Blind’s ‘Nearby Explorer’ app.  Nearby Explorer is an advanced GPS solution which was recently released for Android smartphones by the American Printing House for the blind. The app gives the visually impaired and the blind audible cues about their immediate surroundings, and directions to places they would like to go. 
+Winter weather could not stop [CodeAcross 2015](http://www.codeforamerica.org/events/codeacross-2015/) in Louisville last Saturday, February 22nd. Dedicated volunteers braved the icy streets and converged on the  Urban Design Studio for a day of Open Streets Maps editing, in support of the American Printing House for the Blind’s ‘Nearby Explorer’ app.  Nearby Explorer is an advanced GPS solution recently released for Android smartphones by the American Printing House for the blind. The app gives the visually impaired and the blind audible cues about their immediate surroundings, and directions to places they would like to go. 
 
-The Civic Data Alliance has taken open GIS data from the city of Louisville and [organized](http://wiki.openstreetmap.org/wiki/Louisville,_Kentucky/Building_Outlines_Import/Contributor_Guide) volunteers to load it into Open Street Map so the American Printing House can use it in their mobile app for the visually impaired.
+During CodeAcross, The Civic Data Alliance took newly open GIS data (precise locations of buildings and address information) from the city of Louisville and [organized](http://wiki.openstreetmap.org/wiki/Louisville,_Kentucky/Building_Outlines_Import/Contributor_Guide) volunteers to load it into Open Street Map so the American Printing House can use it to improve Nearby Explorer.
 
-At our first Code for America [CodeAcross](http://www.meetup.com/Louisville-Civic-Data-Alliance/events/219829803/) event during a local ice storm, we taught volunteers how to use OSM's [Task Manager](http://tasks.openstreetmap.us/job/50) to load buildings and addresses, one neighborhood at a time.  
+We taught volunteers how to use OSM's [Task Manager](http://tasks.openstreetmap.us/job/50) to load buildings and addresses, one neighborhood at a time, and made initial progress toward adding the data for the entire city into Open Street Maps. There is still a lot of work to be done to get all the buildings and addresses loaded, so please join us for Part 2 of the effort Saturday, March 21st at the American Printing House for the Blind. [Sign up here](http://www.meetup.com/Louisville-Civic-Data-Alliance/events/220786152/)
 
-Part 2 of our CodeAcross event is [coming up soon](http://www.meetup.com/Louisville-Civic-Data-Alliance/events/220786152/), where we will expand our volunteer base and load the rest of the data.
 
 **CDA Work Before the Event**
 

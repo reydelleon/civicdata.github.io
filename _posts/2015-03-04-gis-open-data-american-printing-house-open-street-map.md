@@ -10,7 +10,7 @@ image:
   credit: Open Street Map
   creditlink: https://www.openstreetmap.org/#map=15/38.2361/-85.7220
 ---
-Winter weather could not stop [CodeAcross 2015] (http://www.codeforamerica.org/events/codeacross-2015/) in Louisville last Saturday, February 22nd. Dedicated volunteers braved the icy streets and converged on the  Urban Design Studio for a day of Open Streets Maps editing, in support of the American Printing House for the Blind’s ‘Nearby Explorer’ app.  Nearby Explorer is an advanced GPS solution which was recently released for Android smartphones by the American Printing House for the blind. The app gives the visually impaired and the blind audible cues about their immediate surroundings, and directions to places they would like to go. 
+Winter weather could not stop [CodeAcross 2015](http://www.codeforamerica.org/events/codeacross-2015/) in Louisville last Saturday, February 22nd. Dedicated volunteers braved the icy streets and converged on the  Urban Design Studio for a day of Open Streets Maps editing, in support of the American Printing House for the Blind’s ‘Nearby Explorer’ app.  Nearby Explorer is an advanced GPS solution which was recently released for Android smartphones by the American Printing House for the blind. The app gives the visually impaired and the blind audible cues about their immediate surroundings, and directions to places they would like to go. 
 
 The Civic Data Alliance has taken open GIS data from the city of Louisville and [organized](http://wiki.openstreetmap.org/wiki/Louisville,_Kentucky/Building_Outlines_Import/Contributor_Guide) volunteers to load it into Open Street Map so the American Printing House can use it in their mobile app for the visually impaired.
 

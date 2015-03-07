@@ -16,6 +16,8 @@ During CodeAcross, The Civic Data Alliance took newly open GIS data (precise loc
 
 We taught volunteers how to use OSM's [Task Manager](http://tasks.openstreetmap.us/job/50) to load buildings and addresses, one neighborhood at a time, and made initial progress toward adding the data for the entire city into Open Street Maps. There is still a lot of work to be done to get all the buildings and addresses loaded, so please join us for Part 2 of the effort Saturday, March 21st at the American Printing House for the Blind. [Sign up here](http://www.meetup.com/Louisville-Civic-Data-Alliance/events/220786152/)
 
+For this event there is actually zero programming needed.  All you need is a laptop, following written and spoken instructions, and an attention to detail.  Any other skills are just a bonus.  
+
 
 **CDA Work Before the Event**
 

@@ -37,7 +37,11 @@ The core CDA put in about 140 volunteer hours to prep for the project and event.
 12. Core CDA members load some areas of the city in preparation for the event.
 13. Organize, promote, and run Code Across event with our wonderful attendees!
 
+**Outcomes**
+
 Between February 21 and March 6, 10 people have collaboratively worked on 127 areas of the city, and validated (or invalidated) 76 of those, for an estimated 90 hours of work.
+
+[![OSM Building Import Progress](/images/screenshot-building-march7.png)](http://tasks.openstreetmap.us/job/50)
 
 **Tweets During CodeAcross**
 

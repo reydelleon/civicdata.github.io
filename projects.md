@@ -27,10 +27,9 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 
 # CURRENT
 
-#### **Voter Turnout by Precinct**
-* *May 2014 primary including registered voters, turnout numbers and percent*
-* [projects.civicdataalliance.org/voter-turnout](http://projects.civicdataalliance.org/voter-turnout/)
-* [projects.civicdataalliance.org/election-results](http://projects.civicdataalliance.org/election-results/)
+#### **Open Street Map for the Visually Impaired**
+* *Helping the Visually Impaired Navigate Louisville Using Open Data*
+* [civicdataalliance.org](http://www.civicdataalliance.org/gis-open-data-american-printing-house-open-street-map/)
 
 #### **Louisville Minecraft**
 * *Opening city GIS layers needed to recreate our city in Minecraft*
@@ -38,7 +37,7 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 * Progress/Tools: [hackpad.com](https://hackpad.com/Minecraft-Louisville-Ub1wrkuQJ2a)
 
 #### **OKFN Open Data Census**
-* *Listing our open data achievements*
+* *Listing Louisville's data achievements*
 * [okfn.org](http://us-city.census.okfn.org/place/louisville)
 
 #### **The Next Bus**
@@ -46,8 +45,12 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 * [getonthenextbus.com](http://www.getonthenextbus.com)
 
 
-
 # COMPLETE 
+
+#### **Voter Turnout by Precinct**
+* *May 2014 primary including registered voters, turnout numbers and percent*
+* [projects.civicdataalliance.org/voter-turnout](http://projects.civicdataalliance.org/voter-turnout/)
+* [projects.civicdataalliance.org/election-results](http://projects.civicdataalliance.org/election-results/)
 
 #### **ReSurfaced**
 * *Creating an urban canvas for experimentation*

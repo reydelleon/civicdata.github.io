@@ -41,6 +41,10 @@ The core CDA put in about 140 volunteer hours to prep for the project and event.
 
 Between February 21 and March 6, 10 people have collaboratively worked on 127 areas of the city, and validated (or invalidated) 76 of those, for an estimated 90 hours of work.
 
+*"This is simply amazing that it shows up so quickly.   I am amazed to see the power of CDA and what a group of dedicated people can actually accomplish. It is amazing how much actually got done in one day. We can easily tell!"* - Larry at APH
+
+*"I'm amazed! I was testing on a bus around the time the CDA added the data north of Brownsboro Rd, and when it showed up, I thought I was running the wrong build of our app. Should have checked my email before trying to confirm I was running the right build!"* - Rob at APH
+
 [![OSM Building Import Progress](/images/screenshot-building-march7.png)](http://tasks.openstreetmap.us/job/50)
 
 **Tweets During CodeAcross**

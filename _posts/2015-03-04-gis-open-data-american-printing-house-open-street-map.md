@@ -47,6 +47,15 @@ Between February 21 and March 6, 10 people have collaboratively worked on 127 ar
 
 [![OSM Building Import Progress](/images/screenshot-building-march7.png)](http://tasks.openstreetmap.us/job/50)
 
+<blockquote class="twitter-tweet" lang="en"><p>Louisville’s buildings in vector 3D w/ <a href="https://twitter.com/mapzen">@mapzen</a> from our <a href="https://twitter.com/APHfortheBlind">@APHfortheBlind</a> import &amp; live traffic! <a href="http://t.co/UVAOleRpOS">http://t.co/UVAOleRpOS</a> <a href="http://t.co/2bkvNlgUDN">pic.twitter.com/2bkvNlgUDN</a></p>&mdash; Civic Data Alliance (@CivicDataAlly) <a href="https://twitter.com/CivicDataAlly/status/578215089754529793">March 18, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p>Isometric 3D buildings showing up in <a href="https://twitter.com/mapzen">@mapzen</a> based on our <a href="https://twitter.com/APHfortheBlind">@APHfortheBlind</a> import. <a href="https://t.co/TfkulHcRoc">https://t.co/TfkulHcRoc</a> <a href="http://t.co/oQOSYKZDNi">pic.twitter.com/oQOSYKZDNi</a></p>&mdash; Civic Data Alliance (@CivicDataAlly) <a href="https://twitter.com/CivicDataAlly/status/578217941658898433">March 18, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p>With <a href="https://twitter.com/LouGovIT">@LouGovIT</a> buildings in OSM for <a href="https://twitter.com/APHfortheBlind">@APHfortheBlind</a> see shadows based on date and time. <a href="http://t.co/MyndMHmMPq">http://t.co/MyndMHmMPq</a> <a href="http://t.co/uby2ufIgVe">pic.twitter.com/uby2ufIgVe</a></p>&mdash; Civic Data Alliance (@CivicDataAlly) <a href="https://twitter.com/CivicDataAlly/status/576412458665000961">March 13, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p>Now that Louisville has some OSM building data, you can view the city in 3D CAD software. <a href="https://t.co/v9DONbSm64">https://t.co/v9DONbSm64</a> <a href="http://t.co/d1sexRnyNK">pic.twitter.com/d1sexRnyNK</a></p>&mdash; Civic Data Alliance (@CivicDataAlly) <a href="https://twitter.com/CivicDataAlly/status/576400319397163008">March 13, 2015</a></blockquote>
+
+
 **Tweets During CodeAcross**
 
 <blockquote class="twitter-tweet" lang="en"><p>Helping <a href="https://twitter.com/APHfortheBlind">@APHfortheBlind</a> to map Louisville, KY to assist blind pedestrians with <a href="https://twitter.com/codeforamerica">@CodeForAmerica</a> and <a href="https://twitter.com/CivicDataAlly">@CivicDataAlly</a> <a href="http://t.co/HLJejvRmcT">pic.twitter.com/HLJejvRmcT</a></p>&mdash; Dave Mattingly (@blackwyrm) <a href="https://twitter.com/blackwyrm/status/569187903739441152">February 21, 2015</a></blockquote>

@@ -2,7 +2,7 @@
 layout: post
 title: Helping the Visually Impaired Navigate Louisville Using Open Data
 description: "The Civic Data Alliance has taken open GIS data from the city of Louisville and organized volunteers to load it into Open Street Map so the American Printing House can use it in their mobile app for the visually impaired."
-modified: 2015-03-23
+modified: 2015-03-30
 tags: [louisville,gis,aph,american printing house,open street map,hackathon,lojic,code for america]
 comments: true
 image:
@@ -26,7 +26,7 @@ For this event there is actually zero programming needed.  All that was needed i
 
 Between February 16 and March 21, 15 people have collaboratively worked on over 200 areas of the city, for an estimated 240+ hours of work.
 
-[![OSM Building Import Progress](/images/screenshot-building-feb-16-mar-18.gif)](http://tasks.openstreetmap.us/job/50)
+[![OSM Building Import Progress](/images/screenshot-building-animation.gif)](http://tasks.openstreetmap.us/job/50)
 
 *"This is simply amazing that it shows up so quickly.   I am amazed to see the power of CDA and what a group of dedicated people can actually accomplish. It is amazing how much actually got done in one day. We can easily tell!"* - Larry at APH
 

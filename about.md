@@ -12,7 +12,7 @@ image:
   creditlink: http://system58photos.com/
 ---
 
-The Civic Data Alliance (CDA) is Louisville's [Code for America Brigade](http://codeforamerica.org/brigade/index/Civic_Data_Alliance), and we are focused on being a force for open data, hosting hackathons, coding education, and civic engagement.
+The Civic Data Alliance (CDA) is Louisville's [Code for America Brigade](http://www.codeforamerica.org/brigade/Civic_Data_Alliance/), and we are focused on being a force for open data, hosting hackathons, coding education, and civic engagement.
 
 **Making Public Data Truly Public**
 
@@ -42,7 +42,7 @@ Organizations that we have partnered with for past or current projects
 
 **History and Leadership**
 
-Louisville's Code for America Brigade was founded in December of 2012 by Michael Schnuerle.
+Louisville's Code for America Brigade was founded in December of 2012 by Michael Schnuerle after partnering with Louisville Metro since 2010 to open crime, restaurant, and permit data, creating interactive maps for the city, and advising on the city's open data portal launch.
 
 On September 2013, the Civic Data Alliance was created by [Patrick Smith](http://citycollaborative.org/), [Bret Walker](http://www.louiewatch.com/), [Chris Harrell](http://www.lazarusllc.com/) and [Michael Schnuerle](http://www.yourmapper.com/) to be a voice for citizens.  
 
@@ -50,9 +50,9 @@ The CDA was merged with the Louisville Brigade in May 2014 when it became a Memb
 
 In December 2014 we reached official Brigade status with Code for America.
 
-As of March 2015, over 200 people and volunteers have participated in our hackathons, meetups, and events.  Thank you!
+As of April 2015, over 250 people and volunteers have participated in our hackathons, meetups, and events.  Thank you!
 
-We've had **10 meetups**, run **5 hackathons**, worked on **18 civic public projects**, and donated over **4,000 hours** of volunteer time to the community!
+We've had **13 meetups**, run **6 hackathons**, worked on **19 civic public projects**, and donated over **5,000 hours** of volunteer time to the community!
 
 **Code of Conduct**
 

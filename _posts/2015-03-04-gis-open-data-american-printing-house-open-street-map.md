@@ -24,7 +24,7 @@ For this event there is actually zero programming needed.  All that was needed i
 
 **Outcomes**
 
-Between February 16 and April 21, 20+ people have collaboratively worked on over 450 areas of the city, for an estimated 440+ hours of work.
+Between February 16 and April 21, 20+ people have collaboratively worked on over 550 areas of the city, for an estimated 410+ hours of work.
 
 [![OSM Building Import Progress](/images/screenshot-building-animation.gif)](http://tasks.openstreetmap.us/job/50)
 

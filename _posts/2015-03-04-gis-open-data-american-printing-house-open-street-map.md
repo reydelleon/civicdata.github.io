@@ -34,7 +34,7 @@ Between February 16 and May 15, 20+ people have collaboratively worked on over 5
 
 We also had some massive help from an expert OSM editor named [Sam Wallingford](http://www.openstreetmap.org/user/Omnific), an engineering student at UVa.  He started work in April and over the next month completed [more areas](https://docs.google.com/spreadsheets/d/1Hvd-Ix42pkISHrbU6zZ0Be-PvggtBFa9VvNDHWvyhF0/edit#gid=0) than everyone else combined.  Thanks so much Sam!
 
-The CDA is looking at helping other brigades import their data, and may run a workshop at the National Conference this year.  We are also prepping other city data to load, including parks and natural areas, streams, alleys, cemeteries, parking, and historic markers.  We will continue to push the city to release more data to load, like traffic signs, traffic signals, 1-foot contours, parcels, and impervious surfaces.
+The CDA is looking at helping other brigades import their data, and may run a workshop at the [Code for America Summit](http://www.codeforamerica.org/summit/) this September.  We are also prepping other city data to load, including parks and natural areas, streams, alleys, cemeteries, parking, and historic markers.  We will continue to push the city to release more data to load, like traffic signs, traffic signals, 1-foot contours, parcels, and impervious surfaces.
 
 **CDA Work Before the Event**
 

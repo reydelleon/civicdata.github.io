@@ -2,7 +2,7 @@
 layout: post
 title: Helping the Visually Impaired Navigate Louisville Using Open Data
 description: "The Civic Data Alliance has taken open GIS data from the city of Louisville and organized volunteers to load it into Open Street Map so the American Printing House can use it in their mobile app for the visually impaired."
-modified: 2015-04-16
+modified: 2015-05-15
 tags: [louisville,gis,aph,american printing house,open street map,hackathon,lojic,code for america]
 comments: true
 image:
@@ -20,11 +20,11 @@ During CodeAcross, The Civic Data Alliance took newly open GIS data (precise loc
 
 We taught volunteers how to use OSM's [Task Manager](http://tasks.openstreetmap.us/job/50) to load buildings and addresses, one neighborhood at a time, and made initial progress toward adding the data for the entire city into Open Street Maps. There is still a lot of work to be done to get all the buildings and addresses loaded, so please join us for Part 2 of the effort Saturday, March 21st at the American Printing House for the Blind. 
 
-For this event there is actually zero programming needed.  All that was needed is a laptop, following written and spoken instructions, and an attention to detail.  Any other skills are just a bonus.  
+For this event there was actually zero programming needed.  All that was needed is a laptop, following written and spoken instructions, and an attention to detail.  Any other skills are just a bonus.  It was a great way to build our brigade with some prep work by our leaders.
 
 **Outcomes**
 
-Between February 16 and April 21, 20+ people have collaboratively worked on over 550 areas of the city, for an estimated 410+ hours of work.
+Between February 16 and May 15, 20+ people have collaboratively worked on over 550 areas of the city, for an estimated 410+ hours of work.  We are now finished!
 
 [![OSM Building Import Progress](/images/screenshot-building-animation.gif)](http://tasks.openstreetmap.us/job/50)
 
@@ -32,9 +32,13 @@ Between February 16 and April 21, 20+ people have collaboratively worked on over
 
 *"I'm amazed! I was testing on a bus around the time the CDA added the data north of Brownsboro Rd, and when it showed up, I thought I was running the wrong build of our app. Should have checked my email before trying to confirm I was running the right build!"* - Rob at APH
 
+We also had some massive help from an expert OSM editor named [Sam Wallingford](http://www.openstreetmap.org/user/Omnific), an engineering student at UVa.  He started work in April and over the next month completed [more areas](https://docs.google.com/spreadsheets/d/1Hvd-Ix42pkISHrbU6zZ0Be-PvggtBFa9VvNDHWvyhF0/edit#gid=0) than everyone else combined.  Thanks so much Sam!
+
+The CDA is looking at helping other brigades import their data, and may run a workshop at the National Conference this year.  We are also prepping other city data to load, including parks and natural areas, streams, alleys, cemeteries, parking, and historic markers.  We will continue to push the city to release more data to load, like traffic signs, traffic signals, 1-foot contours, parcels, and impervious surfaces.
+
 **CDA Work Before the Event**
 
-The core CDA put in about 140 volunteer hours to prep for the project and event. Here's what we did.
+The core CDA put in about 140 volunteer hours to prep for the project and event. Here's what we did. If your brigade were to do it, it would likely take 40 hours of prep with our guidance (please contact us for help!).
 
 1. Identify the need from APH during our December meetup.
 2. Work with LOJIC and Metro Louisville to add an appropriate open data license to [portal](http://portal.louisvilleky.gov/content/terms-use-accessibility-data-policy) and [FTP](ftp://ftp.lojic.org/pub/federal/) site.
@@ -103,5 +107,6 @@ Lauren Dyson, Content Manager with Code for America, dropped by to lend a hand.
 - [Nearby Explorer](https://play.google.com/store/apps/details?id=org.aph.avigenie)
 - [Contributor Guide](http://wiki.openstreetmap.org/wiki/Louisville,_Kentucky/Building_Outlines_Import/Contributor_Guide)
 - [Task Manager](http://tasks.openstreetmap.us/job/50)
-- [OSM](https://www.openstreetmap.org/#map=15/38.2361/-85.7220)
+- [OSM Results](https://www.openstreetmap.org/#map=15/38.2361/-85.7220)
 - [OSM Import Data](http://wiki.openstreetmap.org/wiki/Louisville,_Kentucky/Building_Outlines_Import)
+- [Expert Volunteer!](http://www.openstreetmap.org/user/Omnific)

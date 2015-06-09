@@ -9,7 +9,7 @@ comments: true
 image:
   feature: banner-hackville2015.png
   credit: Brian Bohannon
-  creditlink: www.brianbohannon.com
+  creditlink: http://www.brianbohannon.com
 ---
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

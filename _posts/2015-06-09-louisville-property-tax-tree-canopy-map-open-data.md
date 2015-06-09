@@ -15,7 +15,7 @@ image:
 
 The city of Louisville's Sustainability Office [commissioned a tree canopy study](https://louisvilleky.gov/government/sustainability/tree-canopy-assessment) from [Davey Resource Group](http://www.davey.com/davey-resource-group/) and created a [detailed report](https://louisvilleky.gov/sites/default/files/sustainability/pdf_files/louisvilleutcreport-24march2015.pdf) of the results.  Louisville needs more trees to combat its [urban heat island problem](https://louisvilleky.gov/government/sustainability/urban-heat-island-project), which shows our city having the fastest growing problem in the nation. 
 
-[![Heat Island](https://louisvilleky.gov/sites/default/files/sustainability/site_images/urban_heat_island_top_20_most_rapidly_growing_cities.png)](https://louisvilleky.gov/government/sustainability/urban-heat-island-project)
+[![Heat Island](https://louisvilleky.gov/government/sustainability/urban-heat-island-project)](https://louisvilleky.gov/sites/default/files/sustainability/site_images/urban_heat_island_top_20_most_rapidly_growing_cities.png)
 
 The city took that study's information and created a [tree canopy online map](https://www.cartotronics.com/UTC_Viewer_Louisville/), but the CDA wanted to look at the data in a different way, showing it more granularly (by property parcel at higher zoom levels), adding interactivity, and also merging property taxes.
 
@@ -23,6 +23,8 @@ The city took that study's information and created a [tree canopy online map](ht
 
 So CDA took the parcels tree estimates from the 2012 Tree Canopy data on Louisville's Open Data Portal and merged it with the Sheriff's department's 2014 Tax File open data to create a tree coverage and property tax maps for all of Jefferson County.  For each parcel you can get information like tree coverage, acres, tax value, and tax dollars per acre.
 
+*We hope these tools can inform the public about the importance of tree coverage in their neighborhood, trees affect on property values, and the value of having detailed [open data](http://data.louisvilleky.gov/).*
+ 
 **Here are the first 3 maps we have made using this data:**
 
 [Tree Canopy Map](http://bit.ly/TreeCanopyVille)
@@ -55,7 +57,7 @@ So CDA took the parcels tree estimates from the 2012 Tree Canopy data on Louisvi
 
 **Raw Data**
 
-Visit our open data portal to get the full Shapefiles and CSV data that we created to build our maps, and create your own visualizations.  We hope these tools can inform the public about the importance of tree coverage in their neighborhood, trees affect on property values, and the value of having detailed [open data](http://data.louisvilleky.gov/).
+Visit our open data portal to get the full Shapefile and CSV data that we created to build our maps, and create your own visualizations. 
 
 [CDA Open Data Downloads](http://data.civicdataalliance.org/dataset/property-tax-tree-cover-parcel)
 

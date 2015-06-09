@@ -113,6 +113,16 @@ A contest was run via an online poll, with voting done by all the participants, 
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">The &quot;Alliance&quot; part of the Civic Data Alliance. Teamwork. People. <a href="https://twitter.com/hashtag/hackforchange?src=hash">#hackforchange</a> <a href="https://twitter.com/hashtag/hackville?src=hash">#hackville</a> <a href="https://twitter.com/codeforamerica">@codeforamerica</a> <a href="http://t.co/x84NZJygS9">pic.twitter.com/x84NZJygS9</a></p>&mdash; Civic Data Alliance (@CivicDataAlly) <a href="https://twitter.com/CivicDataAlly/status/607613851035525120">June 7, 2015</a></blockquote>
 
+**Thanks!**
 
+Thank you to everyone who volunteered to make this happen, to everyone who came and hacked away the day, and to our event sponsors! 
 
-MEETUP EVENT DETAILS <a href="http://www.meetup.com/Louisville-Civic-Data-Alliance/events/221681484/" target="new" ><img src="http://www.meetup.com/t/img/api/rbtn/2bbjrknflaj6iskbvg0hthmim2/rsvp_btn.png"></a>
+- [Code Louisville](http://www.codelouisville.org/)
+- [Robert Half Technologies](http://www.roberthalf.com/louisville)
+- [Mission Data](https://www.missiondata.com/)
+- [Arrow Food Couriers](http://arrowfoodcouriers.com/)
+
+*See you next year!*
+
+<a href="http://www.meetup.com/Louisville-Civic-Data-Alliance/events/221681484/" target="new" >MEETUP EVENT DETAILS</a>
+

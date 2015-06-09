@@ -13,15 +13,17 @@ image:
 ---
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The city of Louisville's Sustainability Office [commissioned a tree canopy study](https://louisvilleky.gov/government/sustainability/tree-canopy-assessment) from [Davey Resource Group](http://www.davey.com/davey-resource-group/) and created a [detailed report](https://louisvilleky.gov/sites/default/files/sustainability/pdf_files/louisvilleutcreport-24march2015.pdf) of the results.  Louisville needs more trees to combat its [urban heat island problem](https://louisvilleky.gov/government/sustainability/urban-heat-island-project), which shows the city having the fastest growing problem in the nation. 
+The city of Louisville's Sustainability Office [commissioned a tree canopy study](https://louisvilleky.gov/government/sustainability/tree-canopy-assessment) from [Davey Resource Group](http://www.davey.com/davey-resource-group/) and created a [detailed report](https://louisvilleky.gov/sites/default/files/sustainability/pdf_files/louisvilleutcreport-24march2015.pdf) of the results.  Louisville needs more trees to combat its [urban heat island problem](https://louisvilleky.gov/government/sustainability/urban-heat-island-project), which shows our city having the fastest growing problem in the nation. 
 
-[![Heat Island](https://louisvilleky.gov/sites/default/files/sustainability/site_images/urban_heat_island_top_20_most_rapidly_growing_cities.png)]
+[![Heat Island](https://louisvilleky.gov/sites/default/files/sustainability/site_images/urban_heat_island_top_20_most_rapidly_growing_cities.png)](https://louisvilleky.gov/government/sustainability/urban-heat-island-project)
 
-The city took that information and created a [tree canopy online map](https://www.cartotronics.com/UTC_Viewer_Louisville/), but the CDA wanted to look at the data in a different way, showing it more granularly (by property parcel at higher zoom levels), adding interactivity, and also merging property taxes.
+The city took that study's information and created a [tree canopy online map](https://www.cartotronics.com/UTC_Viewer_Louisville/), but the CDA wanted to look at the data in a different way, showing it more granularly (by property parcel at higher zoom levels), adding interactivity, and also merging property taxes.
+
+[![City Map(/images/screenshot-canopy-gis.png)](https://www.cartotronics.com/UTC_Viewer_Louisville/)
 
 So CDA took the parcels tree estimates from the 2012 Tree Canopy data on Louisville's Open Data Portal and merged it with the Sheriff's department's 2014 Tax File open data to create a tree coverage and property tax maps for all of Jefferson County.  For each parcel you can get information like tree coverage, acres, tax value, and tax dollars per acre.
 
-Here are maps we made using this data:
+**Here are the first 3 maps we have made using this data:**
 
 [Tree Canopy Map](http://bit.ly/TreeCanopyVille)
 

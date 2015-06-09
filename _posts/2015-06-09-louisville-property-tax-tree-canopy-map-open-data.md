@@ -23,7 +23,7 @@ The city took that study's information and created a [tree canopy online map](ht
 
 So CDA took the parcels tree estimates from the 2012 Tree Canopy data on Louisville's Open Data Portal and merged it with the Sheriff's department's 2014 Tax File open data to create a tree coverage and property tax maps for all of Jefferson County.  For each parcel you can get information like tree coverage, acres, tax value, and tax dollars per acre.
 
-*We hope these tools can inform the public about the importance of tree coverage in their neighborhood, trees affect on property values, and the value of having detailed [open data](http://data.louisvilleky.gov/).*
+*We hope these tools can inform the public about the importance of tree coverage in their neighborhood, how trees affect on property values, and the value of having detailed [open public data](http://data.louisvilleky.gov/).*
  
 **Here are the first 3 maps we have made using this data:**
 
@@ -74,4 +74,8 @@ Each parcel has these fields:
 Tax Value comes from the Sheriff's Department [online tax roll for 2014](http://www.jcsoky.org/download/taxfiledownloads.htm).
 
 Tree Coverage and parcel outlines come from [Louisville Metro's open data portal](http://portal.louisvilleky.gov/dataset/utcdata).
+
+**Thanks**
+
+We would like like to thank [Lyzi Diamond](https://twitter.com/lyzidiamond), [Maptime](https://twitter.com/maptimelou) founder, for personally teaching us how map such large quantities of data using [Mapbox](https://twitter.com/mapbox), the [mayor](https://twitter.com/louisvillemayor) and [Ted Smith](https://twitter.com/tedsmithphd) and [Matthew Gotth-Olsen](https://twitter.com/mattgolsen) for having transparent and open government data, and Maria Koetter at the [Sustainability Office](https://twitter.com/SustainLou) for creating the study data.
 

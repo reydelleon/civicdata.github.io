@@ -34,11 +34,13 @@ Ted Smith - Chief of Civic Innovation, [LouisvilleKY.gov](http://louisvilleky.go
 
 Organizations that we have partnered with for past or current projects
 
-* [Network Center for Community Change](http://makechangetogether.org/)
 * [Louisville Public Media](http://louisvillepublicmedia.org/)
 * [American Printing House for the Blind](http://www.aph.org/)
 * [TARC](http://ridetarc.org/)
 * [The Courier-Journal](http://www.courier-journal.com/)
+* [KY Youth Advocates](http://kyyouth.org/)
+* [Metro Safe and Healthy Neighborhoods](https://louisvilleky.gov/government/safe-neighborhoods)
+* [Network Center for Community Change](http://makechangetogether.org/)
 
 **History and Leadership**
 
@@ -50,9 +52,9 @@ The CDA was merged with the Louisville Brigade in May 2014 when it became a Memb
 
 In December 2014 we reached official Brigade status with Code for America.
 
-As of April 2015, over 250 people and volunteers have participated in our hackathons, meetups, and events.  Thank you!
+As of June 2015, over 300 people and volunteers have participated in our hackathons, meetups, and events.  Thank you!
 
-We've had **13 meetups**, run **6 hackathons**, worked on **19 civic public projects**, and donated over **5,000 hours** of volunteer time to the community!
+We've had **14 meetups**, run **7 hackathons**, worked on **29 civic public projects**, and donated over **6,000 hours** of volunteer time to the community!
 
 **Code of Conduct**
 

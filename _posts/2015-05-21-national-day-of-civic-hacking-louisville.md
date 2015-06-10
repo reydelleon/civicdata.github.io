@@ -1,9 +1,9 @@
 ---
 layout: post
 title: National Day of Civic Hacking Louisville 2015
-description: "Louisville's 3rd Annual National Day of Civic Hacking"
+description: "Hack for Change Louisville was held as the city’s official Code for America National Day of Civic Hacking event, one of over 100 simultaneous events across the United States. The day brought together local government leaders and staff, local organizations, non-profits, businesses, visitors, and community members and was focused on civic innovation."
 created: 2015-05-21
-modified: 2015-06-09
+modified: 2015-06-10
 tags: [louisville,codeforamerica,cfa,hackforchange,ndoch,2015]
 comments: true
 image:
@@ -11,7 +11,7 @@ image:
   credit: Brian Bohannon
   creditlink: http://www.brianbohannon.com
 ---
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 Hack for Change Louisville was held as the city’s official [Code for America](http://www.codeforamerica.org/) [National Day of Civic Hacking](http://hackforchange.org/) event, one of over 100 simultaneous events across the United States. The day brought together local government leaders and staff, local organizations, non-profits, businesses, visitors, and community members and was focused on civic innovation.
 
@@ -91,8 +91,12 @@ A contest was run via an online poll, with voting done by all the participants, 
 
 **Social Media and Press**
 
-[Courier Journal Article](http://www.courier-journal.com/story/news/local/2015/06/07/louisville-hackers-code-public-good/28666213/)
+Courier Journal [Louisville hackers code for public good](http://www.courier-journal.com/story/news/local/2015/06/07/louisville-hackers-code-public-good/28666213/)
 [![Louisville hackers code for public good](/images/screenshot-hackville-cj.png)](http://www.courier-journal.com/story/news/local/2015/06/07/louisville-hackers-code-public-good/28666213/)
+
+WFPL [How Computer Hacking Can Improve Louisville’s Public Policy](http://wfpl.org/how-computer-hacking-can-improve-louisvilles-public-policy/)
+
+Insider Louisville [Largest-ever national convening of civic hackers set for Saturday](http://insiderlouisville.com/startups/ecosystem/civic-data-alliance-hosts-national-day-civic-hacking-weekend/)
 
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">3rd annual <a href="https://twitter.com/hashtag/hackforchange?src=hash">#hackforchange</a> <a href="https://twitter.com/hashtag/hackville?src=hash">#hackville</a> - great turnout and <a href="https://twitter.com/louisvillemayor">@louisvillemayor</a>! 8 projects in action. <a href="https://twitter.com/codeforamerica">@codeforamerica</a> <a href="http://t.co/MVIEjNaXZs">pic.twitter.com/MVIEjNaXZs</a></p>&mdash; Civic Data Alliance (@CivicDataAlly) <a href="https://twitter.com/CivicDataAlly/status/607252142957707264">June 6, 2015</a></blockquote>
@@ -126,3 +130,4 @@ Thank you to everyone who volunteered to make this happen, to everyone who came 
 
 <a href="http://www.meetup.com/Louisville-Civic-Data-Alliance/events/221681484/" target="new" >MEETUP EVENT DETAILS</a>
 
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -61,15 +61,16 @@ Based on: [github.com/DCActionforChildren/dcaction](https://github.com/DCActionf
 
 Collaboration with Metro Safe and Healthy Neighborhoods: [louisvilleky.gov/government/safe-neighborhoods](https://louisvilleky.gov/government/safe-neighborhoods)
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Project 5: KY Youth Advocates <a href="https://twitter.com/KYYouth">@KYYouth</a> well being maps by <a href="https://twitter.com/DataKind">@DataKind</a>. <a href="https://twitter.com/hashtag/hackville?src=hash">#hackville</a> <a href="https://twitter.com/hashtag/hackforchange?src=hash">#hackforchange</a> <a href="http://t.co/iVWoYAcISh">pic.twitter.com/iVWoYAcISh</a></p>&mdash; Civic Data Alliance (@CivicDataAlly) <a href="https://twitter.com/CivicDataAlly/status/607289146827251712">June 6, 2015</a></blockquote>
 
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Project 6: Safe and Healthy Neighborhoods <a href="https://twitter.com/SafeHealthyLou">@SafeHealthyLou</a> service, transit access strategy. <a href="https://twitter.com/hashtag/hackville?src=hash">#hackville</a> <a href="https://twitter.com/hashtag/hackforchange?src=hash">#hackforchange</a> <a href="http://t.co/1ymiAslZJD">pic.twitter.com/1ymiAslZJD</a></p>&mdash; Civic Data Alliance (@CivicDataAlly) <a href="https://twitter.com/CivicDataAlly/status/607291214099017729">June 6, 2015</a></blockquote>
 
 
 **Project 7 - Technology events website hub for the city**
 
 Website: [Louisville.io](http://Louisville.io)
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Project 6: Safe and Healthy Neighborhoods <a href="https://twitter.com/SafeHealthyLou">@SafeHealthyLou</a> service, transit access strategy. <a href="https://twitter.com/hashtag/hackville?src=hash">#hackville</a> <a href="https://twitter.com/hashtag/hackforchange?src=hash">#hackforchange</a> <a href="http://t.co/1ymiAslZJD">pic.twitter.com/1ymiAslZJD</a></p>&mdash; Civic Data Alliance (@CivicDataAlly) <a href="https://twitter.com/CivicDataAlly/status/607291214099017729">June 6, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Project 7: Technology events website hub for the city. <a href="http://t.co/fqrReJldrB">http://t.co/fqrReJldrB</a> <a href="https://twitter.com/hashtag/hackville?src=hash">#hackville</a> <a href="https://twitter.com/hashtag/hackforchange?src=hash">#hackforchange</a> <a href="http://t.co/m1igQiBB9s">pic.twitter.com/m1igQiBB9s</a></p>&mdash; Civic Data Alliance (@CivicDataAlly) <a href="https://twitter.com/CivicDataAlly/status/607292443839602689">June 6, 2015</a></blockquote>
 
 
 

@@ -81,6 +81,8 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 
 # PRESS 
 
+Metro Louisville Mayor - [Open Data Portal is powerful toolbox for creative minds](https://louisvilleky.gov/news/open-data-portal-powerful-toolbox-creative-minds)
+
 Courier-Journal - [Louisville hackers code for public good](http://www.courier-journal.com/story/news/local/2015/06/07/louisville-hackers-code-public-good/28666213/)
 
 WFPL - [How Computer Hacking Can Improve Louisville’s Public Policy](http://wfpl.org/how-computer-hacking-can-improve-louisvilles-public-policy/)

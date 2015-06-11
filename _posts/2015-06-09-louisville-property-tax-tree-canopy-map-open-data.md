@@ -55,7 +55,7 @@ So CDA took the parcels tree estimates from the 2012 Tree Canopy data on Louisvi
 - Light greens/white < $10 per acre.
 - Black = No tax collected (gov, non-profit, infrastructure)
 
-**Raw Data**
+# RAW DATA
 
 Visit our open data portal to get the full Shapefile and CSV data that we created to build our maps, and create your own visualizations. 
 
@@ -75,7 +75,18 @@ Tax Value comes from the Sheriff's Department [online tax roll for 2014](http://
 
 Tree Coverage and parcel outlines come from [Louisville Metro's open data portal](http://portal.louisvilleky.gov/dataset/utcdata).
 
-**Thanks**
+# THANKS
 
 We would like like to thank [Lyzi Diamond](https://twitter.com/lyzidiamond), [Maptime](https://twitter.com/maptimelou) founder, for personally teaching us how map such large quantities of data using [Mapbox](https://twitter.com/mapbox), the [mayor](https://twitter.com/louisvillemayor) and [Ted Smith](https://twitter.com/tedsmithphd) and [Matthew Gotth-Olsen](https://twitter.com/mattgolsen) for having transparent and open government data, and Maria Koetter at the [Sustainability Office](https://twitter.com/SustainLou) for creating the study data.
 
+# RELATED PRESS 
+
+Metro Louisville Mayor - [Open Data Portal is powerful toolbox for creative minds](https://louisvilleky.gov/news/open-data-portal-powerful-toolbox-creative-minds)
+
+Courier-Journal - [Louisville hackers code for public good](http://www.courier-journal.com/story/news/local/2015/06/07/louisville-hackers-code-public-good/28666213/)
+
+WFPL - [How Computer Hacking Can Improve Louisville’s Public Policy](http://wfpl.org/how-computer-hacking-can-improve-louisvilles-public-policy/)
+
+Insider Louisville - [Largest-ever national convening of civic hackers set for Saturday](http://insiderlouisville.com/startups/ecosystem/civic-data-alliance-hosts-national-day-civic-hacking-weekend/)
+
+Insider Louisville - [Civic hackers face heavy financial obstacle for data from Jefferson County PVA](http://insiderlouisville.com/metro/social_good/civic-hackers-face-heavy-financial-obstacle-data-jefferson-county-pva/)

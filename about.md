@@ -34,6 +34,7 @@ Ted Smith - Chief of Civic Innovation, [LouisvilleKY.gov](http://louisvilleky.go
 
 Organizations that we have partnered with for past or current projects
 
+* [Code Louisville](http://www.codelouisville.org/)
 * [Louisville Public Media](http://louisvillepublicmedia.org/)
 * [American Printing House for the Blind](http://www.aph.org/)
 * [TARC](http://ridetarc.org/)

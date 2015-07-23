@@ -16,19 +16,6 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 
 
 
-# ONGOING
-
-#### **Open Records FOIA/KORA Requests and Data Hosting**
-* *Getting more public data online at city, county, state levels*
-* [sunlightfoundation.com](http://sunlightfoundation.com/opendataguidelines/)
-* [usodi.org](https://usodi.org/)
-* [codeforamerica.org](http://www.codeforamerica.org/)
-* [data.gov](https://www.data.gov/open-gov/)
-* [opendatahandbook.org](http://opendatahandbook.org/)
-* [opengovdata.org](http://opengovdata.org/)
-
-
-
 # CURRENT
 
 #### **Tree and Property Maps**
@@ -61,10 +48,7 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 #### **The Next Bus**
 * *Encouraging bus ridership in the city*
 * [getonthenextbus.com](http://www.getonthenextbus.com)
-* 
-#### **ReSurfaced**
-* *Creating an urban canvas for experimentation*
-* [citycollaborative.org](http://citycollaborative.org/popupplaza/)
+
 
 #### **Louisville Fiber**
 * *Mapping the demand for high speed internet*
@@ -72,12 +56,49 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 
 #### **National Day of Civic Hacking**
 * *Uniting technologists, entrepreneurs, developers and other citizens in using open data to improve communities.*
-* [hackforchange.org](http://blog.yourmapper.com/2014/06/hack-for-change-louisville-recap-2014/)
-* [civicdataalliance.org](http://www.civicdataalliance.org/national-day-of-civic-hacking-louisville/)
+* [hackforchange.org](http://blog.yourmapper.com/2014/06/hack-for-change-louisville-recap-2014/) - 2014
+* [civicdataalliance.org](http://www.civicdataalliance.org/national-day-of-civic-hacking-louisville/) - 2015
 
 #### **Louisville Open Data Executive Order**
 * *Advising the mayor and leaders on best practices and order wording*
 * [civicdataalliance.org](http://www.civicdataalliance.org/forum/?place=msg%2Fcivicdataalliance%2FiNpZKsimyf0%2FYPyqmThcnTEJ)
+
+
+
+# MEMBER PROJECTS #
+
+#### **TARC Bus Animation**
+* *24 hour interactive animation of all TARC bus stops* - Michael Schnuerle
+* [civicdataalliance.org](https://yourmapper.cartodb.com/viz/ef80ee32-1a81-11e5-ac33-0e018d66dc29/public_map)
+
+#### **JCPS Resides Map**
+* *Showing resides school boundaries for the first time* - Michael Schnuerle
+* [civicdataalliance.org](http://data.civicdataalliance.org/dataset/jcps-resides-school-map-kml)
+
+#### **ReSurfaced**
+* *Creating an urban canvas for experimentation* - Pat Smith
+* [citycollaborative.org](http://citycollaborative.org/popupplaza/)
+
+#### **LouieWatch**
+* *Making open data usable in a news feed for your block* - Bret Walker
+* [louiewatch.com](http://louiewatch.com/)
+
+
+
+
+# ONGOING
+
+#### **Open Records FOIA/KORA Requests and Data Hosting**
+* *Getting more public data online at city, county, state levels*
+* [sunlightfoundation.com](http://sunlightfoundation.com/opendataguidelines/)
+* [usodi.org](https://usodi.org/)
+* [codeforamerica.org](http://www.codeforamerica.org/)
+* [data.gov](https://www.data.gov/open-gov/)
+* [opendatahandbook.org](http://opendatahandbook.org/)
+* [opengovdata.org](http://opengovdata.org/)
+
+
+
 
 # PRESS 
 

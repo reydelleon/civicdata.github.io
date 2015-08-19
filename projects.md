@@ -75,6 +75,10 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 * *Showing resides school boundaries for the first time* - Michael Schnuerle
 * [civicdataalliance.org](http://data.civicdataalliance.org/dataset/jcps-resides-school-map-kml)
 
+#### **Louisville Henge**
+* *Which streets are lined at sunset for a perfect photo?* - Michael Schnuerle
+* [yourmapper.com](http://www.yourmapper.com/demo/cityhenge/map.html#12/38.2169/-85.6931/9/9)
+
 #### **ReSurfaced**
 * *Creating an urban canvas for experimentation* - Pat Smith
 * [citycollaborative.org](http://citycollaborative.org/popupplaza/)

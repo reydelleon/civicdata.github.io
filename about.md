@@ -45,7 +45,7 @@ Organizations that we have partnered with for past or current projects
 
 **History and Leadership**
 
-Louisville's Code for America Brigade was founded in December of 2012 by Michael Schnuerle after partnering with Louisville Metro since 2010 to open crime, restaurant, and permit data, creating interactive maps for the city, and advising on the city's open data portal launch.
+Louisville's Code for America Brigade was founded in December of 2012 by Michael Schnuerle after partnering with Louisville Metro since 2011 to open crime, restaurant, and permit data, creating interactive maps for the city, and advising on the city's open data portal launch in October 2011.
 
 On September 2013, the Civic Data Alliance was created by [Patrick Smith](http://citycollaborative.org/), [Bret Walker](http://www.louiewatch.com/), [Chris Harrell](http://www.lazarusllc.com/) and [Michael Schnuerle](http://www.yourmapper.com/) to be a voice for citizens.  
 

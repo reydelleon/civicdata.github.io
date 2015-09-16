@@ -7,10 +7,10 @@ tags: [louisville,gis,aph,american printing house,open street map,hackathon,loji
 comments: true
 image:
   feature: banner-osmbuildings.png
-  credit: Open Street Map
+  credit: OpenStreetMap
   creditlink: https://www.openstreetmap.org/#map=15/38.2361/-85.7220
 ---
-The CDA hosted two [CodeAcross 2015](http://www.codeforamerica.org/events/codeacross-2015/) events in Louisville on [February 21](http://www.meetup.com/Louisville-Civic-Data-Alliance/events/219829803/) and [March 21](http://www.meetup.com/Louisville-Civic-Data-Alliance/events/220786152/). Dedicated volunteers converged on the  Urban Design Studio and the American Printing House for the Blind for two days of Open Streets Maps learning and editing, in support of the American Printing House for the Blind’s ‘Nearby Explorer’ app.  [Nearby Explorer](https://play.google.com/store/apps/details?id=org.aph.avigenie) is an advanced GPS solution recently released for Android smartphones by the American Printing House for the blind. The app gives the visually impaired and the blind audible cues about their immediate surroundings, and directions to places they would like to go. 
+The CDA hosted two [CodeAcross 2015](http://www.codeforamerica.org/events/codeacross-2015/) events in Louisville on [February 21](http://www.meetup.com/Louisville-Civic-Data-Alliance/events/219829803/) and [March 21](http://www.meetup.com/Louisville-Civic-Data-Alliance/events/220786152/). Dedicated volunteers converged on the  Urban Design Studio and the American Printing House for the Blind for two days of OpenStreetMap learning and editing, in support of the American Printing House for the Blind’s ‘Nearby Explorer’ app.  [Nearby Explorer](https://play.google.com/store/apps/details?id=org.aph.avigenie) is an advanced GPS solution recently released for Android smartphones by the American Printing House for the blind. The app gives the visually impaired and the blind audible cues about their immediate surroundings, and directions to places they would like to go. 
 
 [![OSM Building Import Progress](/images/screenshot-building-progress.jpg)](http://tasks.openstreetmap.us/job/50)
 
@@ -18,7 +18,7 @@ During CodeAcross, The Civic Data Alliance took newly open GIS data (precise loc
 
 [![OSM Building Import Progress](/images/screenshot-building-editing.jpg)](http://wiki.openstreetmap.org/wiki/Louisville,_Kentucky/Building_Outlines_Import/Contributor_Guide)
 
-We taught volunteers how to use OSM's [Task Manager](http://tasks.openstreetmap.us/job/50) to load buildings and addresses, one neighborhood at a time, and made initial progress toward adding the data for the entire city into Open Street Maps. There is still a lot of work to be done to get all the buildings and addresses loaded, so please join us for Part 2 of the effort Saturday, March 21st at the American Printing House for the Blind. 
+We taught volunteers how to use OSM's [Task Manager](http://tasks.openstreetmap.us/job/50) to load buildings and addresses, one neighborhood at a time, and made initial progress toward adding the data for the entire city into OpenStreetMap. There is still a lot of work to be done to get all the buildings and addresses loaded, so please join us for Part 2 of the effort Saturday, March 21st at the American Printing House for the Blind. 
 
 For this event there was actually zero programming needed.  All that was needed is a laptop, following written and spoken instructions, and an attention to detail.  Any other skills are just a bonus.  It was a great way to build our brigade with some prep work by our leaders.
 
@@ -58,7 +58,7 @@ The core CDA put in about 140 volunteer hours to prep for the project and event.
 
 <blockquote class="twitter-tweet" lang="en"><p>Over 40% of Louisville’s buildings/addresses are loaded into OSM thanks to you! Keep going: <a href="http://t.co/V746batQF4">http://t.co/V746batQF4</a> <a href="http://t.co/1IypkApRxN">pic.twitter.com/1IypkApRxN</a></p>&mdash; Civic Data Alliance (@CivicDataAlly) <a href="https://twitter.com/CivicDataAlly/status/580034277657718784">March 23, 2015</a></blockquote>
 
-<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtag/CodeAcross?src=hash">#CodeAcross</a> reprise w American Printing House for the Blind - public data infusion Open Street Maps! <a href="https://twitter.com/CivicDataAlly">@CivicDataAlly</a> <a href="http://t.co/1Jk7vaqFge">pic.twitter.com/1Jk7vaqFge</a></p>&mdash; Lazarus LLC (@LazarusLLC) <a href="https://twitter.com/LazarusLLC/status/579281928374857728">March 21, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtag/CodeAcross?src=hash">#CodeAcross</a> reprise w American Printing House for the Blind - public data infusion OpenStreetMap! <a href="https://twitter.com/CivicDataAlly">@CivicDataAlly</a> <a href="http://t.co/1Jk7vaqFge">pic.twitter.com/1Jk7vaqFge</a></p>&mdash; Lazarus LLC (@LazarusLLC) <a href="https://twitter.com/LazarusLLC/status/579281928374857728">March 21, 2015</a></blockquote>
 
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/hashtag/CodeAcross?src=hash">#CodeAcross</a> part two has started at <a href="https://twitter.com/APHfortheBlind">@APHfortheBlind</a> <a href="http://t.co/mRoJuyNAok">http://t.co/mRoJuyNAok</a> <a href="https://twitter.com/codeforamerica">@codeforamerica</a> <a href="http://t.co/LwoA5xyXNB">pic.twitter.com/LwoA5xyXNB</a></p>&mdash; Civic Data Alliance (@CivicDataAlly) <a href="https://twitter.com/CivicDataAlly/status/579274900797423617">March 21, 2015</a></blockquote>
 

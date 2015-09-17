@@ -22,7 +22,7 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 * *Louisville Property Tax and Tree Cover by Parcel Map*
 * [civicdataalliance.org](http://www.civicdataalliance.org/louisville-property-tax-tree-canopy-map-open-data/)
 
-#### **Open Street Map for the Visually Impaired**
+#### **OpenStreetMap for the Visually Impaired**
 * *Helping the Visually Impaired Navigate Louisville Using Open Data*
 * [civicdataalliance.org](http://www.civicdataalliance.org/gis-open-data-american-printing-house-open-street-map/)
 

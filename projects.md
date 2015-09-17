@@ -106,6 +106,10 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 
 # PRESS 
 
+Louisville Metro - [Second Annual Open Data Report](https://louisvilleky.gov/news/49-new-data-sets-added-louisville-metro-website-over-last-year)
+
+Insider Louisville - [Metro government touts efforts to provide open data](http://insiderlouisville.com/metro/accountability/louisville-continues-make-good-promise-providing-open-data/)
+
 Metro Louisville Mayor - [Open Data Portal is powerful toolbox for creative minds](https://louisvilleky.gov/news/open-data-portal-powerful-toolbox-creative-minds)
 
 Courier-Journal - [Louisville hackers code for public good](http://www.courier-journal.com/story/news/local/2015/06/07/louisville-hackers-code-public-good/28666213/)
@@ -129,6 +133,8 @@ American Printing House for the Blind - [Second Hacking Event at APH: Coders nee
 Louisville Digital Association - [Civic Hacking Event at American Printing House for the Blind ](http://www.louisvilledigital.org/events/louisvilles-civic-data-alliance-to-hold-second-civic-hacking-event-at-american-printing-house-for-the-blind-on-march-21-coders-needed/)
 
 Broken Sidewalk - [What the CDA’s Voter Turnout Map means for Louisville](http://brokensidewalk.com/2014/voter-turnout-map/)
+
+Insider Louisville - [Louisville Mayor's Open Data Executive Order](http://insiderlouisville.com/news/major-score-persistence-week-mayor-greg-fischer-signs-executive-order-open-data-plan/)
 
 Insider Louisville - [Success and roadblocks: #Hackville draws 40 people interested in civic change](http://insiderlouisville.com/metro/social_good/hackville-draws-40-people-interested-in-civic-change/)
 

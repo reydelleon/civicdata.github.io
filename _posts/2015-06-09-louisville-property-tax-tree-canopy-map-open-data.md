@@ -27,9 +27,9 @@ So CDA took the parcels tree estimates from the 2012 Tree Canopy data on Louisvi
  
 **Here are the first 3 maps we have made using this data:**
 
-[Tree Canopy Map](http://bit.ly/TreeCanopyVille)
+[Tree Canopy Map](https://codeforamerica.cartodb.com/u/civicdataalliance/viz/29995f3a-1b6a-11e5-913e-0e4fddd5de28/public_map)
 
-[![Tree Map](/images/screenshot-canopy-tree.png)](http://bit.ly/TreeCanopyVille)
+[![Tree Map](/images/screenshot-canopy-tree.png)](https://codeforamerica.cartodb.com/u/civicdataalliance/viz/29995f3a-1b6a-11e5-913e-0e4fddd5de28/public_map)
 
 - Bright Green = Many trees
 - Dark green = Few trees

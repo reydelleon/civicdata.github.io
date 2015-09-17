@@ -95,7 +95,7 @@ The Civic Data Alliance is composed of local volunteers, helping to open data, a
 #### **Open Records FOIA/KORA Requests and Data Hosting**
 * *Getting more public data online at city, county, state levels*
 * [sunlightfoundation.com](http://sunlightfoundation.com/opendataguidelines/)
-* [usodi.org](https://usodi.org/)
+* [usopendata.org](https://usopendata.org/)
 * [codeforamerica.org](http://www.codeforamerica.org/)
 * [data.gov](https://www.data.gov/open-gov/)
 * [opendatahandbook.org](http://opendatahandbook.org/)

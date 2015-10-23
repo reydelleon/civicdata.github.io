@@ -3,7 +3,7 @@ layout: post
 title: The History and Future of Open Data in Louisville
 description: "Louisville's Open Data Past, Present, and Future: History and Road Map"
 created: 2015-10-22
-modified: 2015-10-22
+modified: 2015-10-23
 tags: [louisville,open data,history,future,ky,metro]
 comments: true
 image:
@@ -15,18 +15,21 @@ image:
 
 Louisville has a long and successful history with open data and transparency.  We were one of the first cities to have an open data portal, to map government data for its public, to have a Director of Innovation, and to have a mayor create an open data executive order.  Louisville is a great city, with thoughtful leadership, and a vibrant community.
 
-# History
+# HISTORY
 
-Louisville realizes the role open data has in attracting business, providing useful services, growing entrepreneurship, and creating a world-class city. Spend some time going through our History of Open Data in Louisville in this interactive timeline:
+Louisville realizes the role open data has in attracting business, providing useful services, growing entrepreneurship, and creating a world-class city. Much of the success involves the volunteer time of many citizens, and dedication of Metro employees. Spend some time going through our History of Open Data in Louisville in this interactive timeline:
 
 [![History of Open Data in Louisville](/images/screenshot-history-of-open-data-louisville.png)](http://bit.ly/CivicDataHistory)
 *Click for an interactive timeline of Louisville's Open Data History*
 
 What have been our successes and missteps over the years?  How can we build upon this history and ensure Louisville stays at the head of the innovation and open data pack in the future?
 
-# Future
+# FUTURE
 
 The Civic Data Alliance has created the following summary and recommendations for the city of Louisville in the area of open data. The goal is make Louisville a world-class city, live up to the mayor’s promise of transparency, [open data](http://louisvilleky.gov/government/mayor-greg-fischer/read-open-data-executive-order), and [Strategic Goal #4](https://louisvilleky.gov/government/mayor-greg-fischer/strategic-plan/goal-4-make-more-services-information-and-data), and continue our city’s great history of open data. 
+
+The goal with this road map is to empower Metro employees, provide a quality direction of effort, and continue to harness the volunteer spirit of our civic community.
+
 
 ## Community Outreach
 
@@ -92,8 +95,8 @@ The Civic Data Alliance has created the following summary and recommendations fo
 - [Police Open Data Census](https://codeforamerica.github.io/PoliceOpenDataCensus/)
 - [Sunlight Foundation Open Data Guidelines](http://www.google.com/url?q=http%3A%2F%2Fsunlightfoundation.com%2Fopendataguidelines%2F&sa=D&sntz=1&usg=AFQjCNHHF-Vfo89DFG-H9B2INTZsI8b3og)
 
-# Feedback
+# FEEDBACK
 
 There is still more to add to this page and we will be updating with more items and details.  As progress is made on these suggestions, we will mark them off with the completion date, a link, and comment.
 
-What do you think would add to Louisville's future success?  Do you have updates or additions to our historic timeline? Let us know in the comments below or on Twitter [@CivicDataAlly](https://twitter.com/CivicDataAlly).  Thank you for supporting open data!
+What do you think would add to Louisville's future success?  Do you have updates or additions to our historic timeline? Let us know in the comments below, on Twitter [@CivicDataAlly](https://twitter.com/CivicDataAlly), or in our Slack channel (left nav).  Thank you for supporting open data!

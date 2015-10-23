@@ -15,16 +15,20 @@ image:
 
 Louisville has a long and successful history with open data and transparency.  We were one of the first cities to have an open data portal, to map government data for its public, to have a Director of Innovation, and to have a mayor create an open data executive order.  Louisville is a great city, with thoughtful leadership, and a vibrant community.
 
-We realize the role open data has in attracting business, providing useful services, growing entrepreneurship, and creating a world-class city. Spend some time going through our History of Open Data in Louisville in this interactive timeline:
+# History
+
+Louisville realizes the role open data has in attracting business, providing useful services, growing entrepreneurship, and creating a world-class city. Spend some time going through our History of Open Data in Louisville in this interactive timeline:
 
 [![History of Open Data in Louisville](/images/screenshot-history-of-open-data-louisville.png)](http://bit.ly/CivicDataHistory)
 *Click for an interactive timeline of Louisville's Open Data History*
 
 What have been our successes and missteps over the years?  How can we build upon this history and ensure Louisville stays at the head of the innovation and open data pack in the future?
 
+# Future
+
 The Civic Data Alliance has created the following summary and recommendations for the city of Louisville in the area of open data. The goal is make Louisville a world-class city, live up to the mayor’s promise of transparency, [open data](http://louisvilleky.gov/government/mayor-greg-fischer/read-open-data-executive-order), and [Strategic Goal #4](https://louisvilleky.gov/government/mayor-greg-fischer/strategic-plan/goal-4-make-more-services-information-and-data), and continue our city’s great history of open data. 
 
-# Community Outreach
+## Community Outreach
 
 - **Twitter** - Create and manage dedicated Twitter account just for open data, for promotion, issues, and successes.
 - **Open Houses** - Public meetings with city departments to talk about data to release, pain points, and collaboration areas.
@@ -32,19 +36,19 @@ The Civic Data Alliance has created the following summary and recommendations fo
 - **Community Data** - Reach out to community organizations to open their data to the public, and their city data needs.
 - **Private Companies** - Reach out to private companies and see what data they need to provide better services, and what data they can open.
 
-# Metro Internal
+## Metro Internal
 
 - **Strategic Goal #4** - Split the mayor's goal into two parts, one for Online Services, one for Open Data. Measure success based on quality metrics (ie, community usage), not quantity of data.
 - **CDO** - Create [Chief Data Officer](http://www.govtech.com/state/Which-States-and-Cities-Have-Chief-Data-Officers.html) role for a person who just owns open data across the entire city.  Dozens of cities have done this already.
 - **Ownership** - Assign one person in each department to be responsible for open data.
 - **Legal** - Turn the mayor’s executive order into something more permanent, though a Metro Council ordinance
 
-# Accuracy of Current Data #
+## Accuracy of Current Data #
 
 - **Crime** - add all data that could be obtained through an open records request (location type, offender age/sex/race, narrative, street number, etc).
 - **Permits** - include most of the details you can find on the [detail page](http://portal.louisvilleky.gov/codesandregs/permit/detail?type=PROPERTY&id=438609), and update the format to match the [BLDS standard](http://permitdata.org/).
 
-# New Data to Open
+## New Data to Open
 
 - [311 Service Requests](http://us-city.census.okfn.org/entry/louisville/service-requests) - City Census
 - [Parcels](http://us-city.census.okfn.org/entry/louisville/parcels) - City Census
@@ -70,7 +74,7 @@ The Civic Data Alliance has created the following summary and recommendations fo
 - [Voting Precinct Boundaries](http://www.civicdataalliance.org/louisville-voter-precinct-turnout/) - Part of our basic democracy
 - [Polling Locations](http://www.civicdataalliance.org/louisville-voter-precinct-turnout/) - Part of our basic democracy
 
-# Open Data Portal
+## Open Data Portal
 
 - **Meta data** - Detailed summary, field descriptions, update frequency, source department, contact information, person in department in charge of the data, number of rows, external link details.
 - **Versioning** - When the data format changes, update the current data set instead of creating a new one. Provide date and last file of previous data set.  Notify current consumers before changing.
@@ -82,11 +86,13 @@ The Civic Data Alliance has created the following summary and recommendations fo
 - **News** - Area of the site for small or large news about changes to the portal, updates, etc.
 - **API** - Create an API for developers to use to quickly build apps, and get data in small chunks in addition to in bulk.
 
-# Resources
+## Resources
 
 - [US City Open Data Census](http://us-city.census.okfn.org/place/louisville)
 - [Police Open Data Census](https://codeforamerica.github.io/PoliceOpenDataCensus/)
 - [Sunlight Foundation Open Data Guidelines](http://www.google.com/url?q=http%3A%2F%2Fsunlightfoundation.com%2Fopendataguidelines%2F&sa=D&sntz=1&usg=AFQjCNHHF-Vfo89DFG-H9B2INTZsI8b3og)
+
+# Feedback
 
 There is still more to add to this page and we will be updating with more items and details.  As progress is made on these suggestions, we will mark them off with the completion date, a link, and comment.
 

@@ -3,7 +3,7 @@ layout: post
 title: The History and Future of Open Data in Louisville
 description: "Louisville's Open Data Past, Present, and Future: History and Road Map"
 created: 2015-10-22
-modified: 2015-10-23
+modified: 2015-10-27
 tags: [louisville,open data,history,future,ky,metro]
 comments: true
 image:
@@ -88,6 +88,14 @@ The goal with this road map is to empower Metro employees, provide a quality dir
 - **Gallery** - Comprehensive gallery of any entity local or national (Google, etc) who is consuming any data on the portal, with an image, link, name, description.
 - **News** - Area of the site for small or large news about changes to the portal, updates, etc.
 - **API** - Create an API for developers to use to quickly build apps, and get data in small chunks in addition to in bulk.
+
+## Projects ##
+
+- [Open Date Report Card](https://open-austin.github.io/open-data-progress-report/)
+- [Fire Calls](https://twitter.com/CivicDataAlly/status/653667834921398272)
+- [Police Census](https://codeforamerica.github.io/PoliceOpenDataCensus/)
+- [CityGram](https://www.citygram.org/)
+- [SimpliCity](http://simplicity.ashevillenc.gov/)
 
 ## Resources
 

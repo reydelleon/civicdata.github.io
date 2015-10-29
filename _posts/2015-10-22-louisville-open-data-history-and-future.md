@@ -101,7 +101,8 @@ The goal with this road map is to empower Metro employees, provide a quality dir
 
 - [US City Open Data Census](http://us-city.census.okfn.org/place/louisville)
 - [Police Open Data Census](https://codeforamerica.github.io/PoliceOpenDataCensus/)
-- [Sunlight Foundation Open Data Guidelines](http://www.google.com/url?q=http%3A%2F%2Fsunlightfoundation.com%2Fopendataguidelines%2F&sa=D&sntz=1&usg=AFQjCNHHF-Vfo89DFG-H9B2INTZsI8b3og)
+- [Sunlight Foundation Open Data Policy Guidelines](http://sunlightfoundation.com/opendataguidelines/)
+- [OKFN Open Data Definition](https://okfn.org/opendata/)
 
 # FEEDBACK
 

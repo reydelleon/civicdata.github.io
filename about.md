@@ -20,12 +20,13 @@ The Civic Data Alliance (CDA) is Louisville's [Code for America Brigade](http://
 
 **Current Core Members**
 
-* Chris Harrell (Community Organizer) [@lazarusllc](http://www.twitter.com/lazarusllc)
-* Ate Poorthuis (Storyteller) [@floating_sheep](http://www.twitter.com/floating_sheep)
-* Michael Schnuerle (Captain) [@yourmapper](http://www.twitter.com/yourmapper)
-* Patrick Smith (Captain) [@citycollab](http://www.twitter.com/citycollab)
-* Bret Walker (Delivery Lead ) [@louiewatch](http://www.twitter.com/louiewatch)
-
+* Michael Schnuerle (Captain) [@yourmapper](https://www.twitter.com/yourmapper)
+* Pat Smith (Core Member) [@cityresearch](https://twitter.com/CityResearch)
+* Dave Mattingly (Core Member) [@@Dave_Mattingly](https://twitter.com/dave_mattingly)
+* Chris Harrell (Core Member) [@lazarusllc](https://twitter.com/LazarusLLC)
+* Becky Steele (Core Member) [@ladyofsteele](https://twitter.com/ladyofsteele)
+* Margeaux Spring (Core Member) [@cheapwebmonkey](https://twitter.com/cheapwebmonkey)
+* Bret Walker (Core Member) [@binarybret](https://twitter.com/BinaryBret)
 **Municipal Partner**
 
 Ted Smith - Chief of Civic Innovation, [LouisvilleKY.gov](http://louisvilleky.gov/government/mayor-greg-fischer/mayors-staff)

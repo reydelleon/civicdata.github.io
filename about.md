@@ -27,6 +27,7 @@ The Civic Data Alliance (CDA) is Louisville's [Code for America Brigade](http://
 * Becky Steele (Core Member) [@ladyofsteele](https://twitter.com/ladyofsteele)
 * Margeaux Spring (Core Member) [@cheapwebmonkey](https://twitter.com/cheapwebmonkey)
 * Bret Walker (Core Member) [@binarybret](https://twitter.com/BinaryBret)
+
 **Municipal Partner**
 
 Ted Smith - Chief of Civic Innovation, [LouisvilleKY.gov](http://louisvilleky.gov/government/mayor-greg-fischer/mayors-staff)

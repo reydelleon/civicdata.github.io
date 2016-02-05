@@ -22,7 +22,7 @@ The Civic Data Alliance (CDA) is Louisville's [Code for America Brigade](http://
 
 * Michael Schnuerle (Captain) [@yourmapper](https://www.twitter.com/yourmapper)
 * Pat Smith (Core Member) [@cityresearch](https://twitter.com/CityResearch)
-* Dave Mattingly (Core Member) [@@Dave_Mattingly](https://twitter.com/dave_mattingly)
+* Dave Mattingly (Core Member) [@Dave_Mattingly](https://twitter.com/dave_mattingly)
 * Chris Harrell (Core Member) [@lazarusllc](https://twitter.com/LazarusLLC)
 * Becky Steele (Core Member) [@ladyofsteele](https://twitter.com/ladyofsteele)
 * Margeaux Spring (Core Member) [@cheapwebmonkey](https://twitter.com/cheapwebmonkey)

@@ -3,7 +3,7 @@ civicdata.github.io
 
 This is the repository that powers http://www.civicdataalliance.org.
 
-This site uses the Minmal Mistakes Jekyll theme.
+This site uses the Minimal Mistakes Jekyll theme.
 
 *Template Samples*: http://mmistakes.github.io/minimal-mistakes/
 
